@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Time,Customer_Name,Mobile_Brand,Model,Price,Quantity,Payment_Method,Salesperson_Name,Store_Location,Warranty_Years,Accessories_Purchased,Customer_Feedback,Discount_Applied
+1,2024-11-28,15:21:00,Jane Smith,OnePlus,OnePlus Ace,510.08,1,Card,Claire Williams,Midtown,1,Charger,1,53.51
+2,2024-04-21,17:40:00,John Doe,Vivo,Y200,276.46,3,Card,Emma Brown,Downtown,1,Charger,1,153.33
+3,2024-07-11,11:51:00,Bob White,Oppo,Find X6 Pro,1026.63,1,Online,Alice Smith,Suburban,3,Screen Protector,3,8.82
+4,2024-07-07,14:13:00,Mike Brown,Vivo,X100 Pro,833.45,2,Card,David Lee,Uptown,3,Charger,1,18.6
+5,2024-12-18,15:07:00,John Doe,Xiaomi,Poco X5 Pro,964.79,2,Cash,Emma Brown,Uptown,1,Screen Protector,1,46.63
+6,2024-05-29,18:27:00,Mike Brown,Apple,iPhone 15 Pro,284.85,2,Card,David Lee,Suburban,3,Charger,2,153.2
+7,2024-03-02,10:36:00,Jane Smith,Xiaomi,Mi 13 Ultra,1326.13,2,Online,Claire Williams,Suburban,3,Headphones,4,62.47
+8,2024-05-13,12:26:00,Jane Smith,Oppo,Reno 10,1020.98,1,Online,Bob Johnson,Uptown,2,None,3,144.42
+9,2024-04-27,14:40:00,Sarah Black,Samsung,Galaxy S23,1338.2,2,Cash,Bob Johnson,Uptown,3,Screen Protector,3,199.4
+10,2024-09-29,20:50:00,Sarah Black,OnePlus,OnePlus Ace,943.82,3,Online,Alice Smith,Midtown,3,Screen Protector,2,14.66
+11,2024-01-20,19:39:00,Alice Green,Samsung,Galaxy A14,513.92,1,Cash,David Lee,Uptown,3,Headphones,5,181.64
+12,2024-11-06,16:26:00,Mike Brown,Apple,iPhone 15 Pro,821.51,2,Online,Claire Williams,Uptown,1,Charger,4,95.02
+13,2024-06-14,09:10:00,Bob White,Oppo,A78,676.87,2,Online,Alice Smith,Downtown,3,Screen Protector,2,46.38
+14,2024-08-23,10:09:00,Sarah Black,Xiaomi,Mi 13 Ultra,1137.89,2,Online,Emma Brown,Midtown,2,Headphones,3,182.17
+15,2024-07-30,12:05:00,Bob White,Xiaomi,Mi 13 Ultra,1054.24,2,Cash,Alice Smith,Uptown,3,Charger,5,88.98
+16,2024-07-20,20:32:00,Alice Green,Samsung,Galaxy Z Fold 5,1472.63,1,Online,David Lee,Uptown,2,Headphones,1,78.61
+17,2024-02-03,18:48:00,Alice Green,OnePlus,OnePlus 11,1011.86,2,Cash,Bob Johnson,Downtown,3,Charger,3,75.12
+18,2024-08-03,18:53:00,Mike Brown,Samsung,Galaxy S23,1196.65,2,Card,David Lee,Midtown,2,Screen Protector,5,128.4
+19,2024-05-10,10:04:00,Alice Green,OnePlus,OnePlus 11,829.94,2,Cash,Bob Johnson,Uptown,3,Screen Protector,1,105.61
+20,2024-06-18,20:09:00,John Doe,Xiaomi,Poco X5 Pro,1045.61,2,Card,David Lee,Uptown,2,Charger,4,10.32
+21,2024-12-02,12:28:00,John Doe,Apple,iPhone 14,1310.63,1,Cash,Alice Smith,Midtown,1,Headphones,1,2.03
+22,2024-11-13,20:49:00,Mike Brown,Apple,iPhone 14,1223.17,2,Online,David Lee,Uptown,1,Screen Protector,2,108.85
+23,2024-08-09,11:24:00,Sarah Black,Oppo,A78,633.52,1,Cash,Claire Williams,Midtown,1,Headphones,4,94.3
+24,2024-02-08,14:30:00,Alice Green,Apple,iPhone 14,1418.44,2,Card,Bob Johnson,Suburban,2,None,4,118.39
+25,2024-10-19,16:02:00,Sarah Black,Oppo,Reno 10,995.62,3,Card,Alice Smith,Midtown,2,Charger,5,142.54
+26,2024-08-15,18:55:00,Sarah Black,Samsung,Galaxy S23,1035.56,2,Cash,Emma Brown,Uptown,3,Headphones,5,65.03
+27,2024-03-08,12:49:00,John Doe,OnePlus,Nord CE 3 Lite,480.38,1,Cash,Bob Johnson,Suburban,2,Headphones,1,156.18
+28,2024-09-17,10:28:00,Jane Smith,Vivo,Y200,1090.78,1,Card,Bob Johnson,Suburban,2,Screen Protector,3,190.78
+29,2024-12-10,15:44:00,Bob White,Xiaomi,Mi 13 Ultra,366.77,2,Online,Alice Smith,Suburban,1,None,1,148.87
+30,2024-08-02,13:04:00,Sarah Black,Apple,iPhone SE 2024,270.54,3,Online,David Lee,Suburban,1,Charger,3,184.32
+31,2024-03-11,12:10:00,Mike Brown,Samsung,Galaxy A14,1401.7,1,Card,Claire Williams,Midtown,3,None,4,179.73
+32,2024-11-14,18:07:00,Mike Brown,Oppo,A78,454.88,2,Card,Emma Brown,Midtown,2,Charger,5,17.82
+33,2024-02-28,13:35:00,Alice Green,Xiaomi,Mi 13 Ultra,1478.83,2,Card,David Lee,Suburban,2,Headphones,1,113.53
+34,2024-12-08,20:04:00,Mike Brown,Apple,iPhone 14,1328.95,3,Online,Claire Williams,Suburban,1,Headphones,4,2.64
+35,2024-12-05,18:55:00,Bob White,Xiaomi,Redmi Note 13,336.12,3,Cash,Claire Williams,Midtown,2,Screen Protector,5,114.04
+36,2024-08-02,10:44:00,Jane Smith,Vivo,Y200,783.75,1,Cash,David Lee,Suburban,3,None,3,189.76
+37,2024-04-03,19:09:00,Alice Green,Oppo,A78,791.68,2,Cash,Emma Brown,Suburban,3,Screen Protector,4,143.1
+38,2024-04-27,10:50:00,Jane Smith,Apple,iPhone 15 Pro,1410.16,1,Card,Alice Smith,Uptown,3,Charger,5,149.86
+39,2024-04-27,11:06:00,Sarah Black,Xiaomi,Mi 13 Ultra,850.81,1,Card,Bob Johnson,Suburban,3,None,2,183.57
+40,2024-07-19,15:55:00,Alice Green,Xiaomi,Poco X5 Pro,1107.85,1,Cash,Alice Smith,Midtown,2,Headphones,3,111.71
+41,2024-01-21,12:31:00,Jane Smith,Oppo,A78,703.29,2,Cash,David Lee,Uptown,3,Charger,5,90.46
+42,2024-06-29,15:07:00,Alice Green,Samsung,Galaxy A14,1451.64,2,Card,Emma Brown,Downtown,1,None,5,15.33
+43,2024-12-31,20:26:00,Bob White,Samsung,Galaxy S23,1242.16,3,Card,Emma Brown,Downtown,1,None,2,110.65
+44,2024-08-25,18:52:00,Mike Brown,OnePlus,OnePlus Ace,563.24,2,Online,Claire Williams,Suburban,1,Charger,2,157.98
+45,2024-04-07,18:45:00,Mike Brown,Xiaomi,Redmi Note 13,983.86,1,Online,Claire Williams,Downtown,2,Screen Protector,4,133.65
+46,2024-07-11,13:55:00,Mike Brown,Oppo,A78,556.29,2,Online,Claire Williams,Uptown,2,Screen Protector,5,28.96
+47,2024-10-17,11:38:00,Alice Green,Apple,iPhone SE 2024,330.21,1,Card,David Lee,Uptown,3,Screen Protector,1,103.22
+48,2024-12-16,14:59:00,Jane Smith,OnePlus,OnePlus 11,984.05,3,Card,David Lee,Uptown,1,Charger,5,44.54
+49,2024-10-12,16:14:00,Sarah Black,OnePlus,OnePlus 11,855.75,2,Cash,Alice Smith,Uptown,2,Headphones,4,112.29
+50,2024-05-14,20:18:00,Mike Brown,Apple,iPhone SE 2024,1166.03,2,Online,Alice Smith,Midtown,2,Headphones,3,78.49
+51,2024-06-09,13:02:00,Jane Smith,Xiaomi,Poco X5 Pro,260.59,2,Online,Alice Smith,Downtown,3,Screen Protector,5,123.34
+52,2024-04-29,20:22:00,Sarah Black,OnePlus,OnePlus Ace,965.97,1,Online,Emma Brown,Midtown,3,Headphones,1,184.4
+53,2024-03-24,20:42:00,Mike Brown,Xiaomi,Poco X5 Pro,598.63,3,Online,Claire Williams,Suburban,2,Headphones,3,105.84
+54,2024-05-15,14:02:00,Sarah Black,Oppo,A78,1152.37,1,Cash,Emma Brown,Suburban,2,Headphones,1,176.68
+55,2024-08-04,16:01:00,Sarah Black,Vivo,V29 Pro,811.97,2,Online,Alice Smith,Downtown,1,Headphones,4,40.09
+56,2024-12-18,10:50:00,Alice Green,Apple,iPhone SE 2024,493.94,3,Cash,Claire Williams,Midtown,1,Screen Protector,1,45.08
+57,2024-11-25,17:30:00,John Doe,Samsung,Galaxy S23,1346.71,3,Online,Bob Johnson,Uptown,3,Screen Protector,2,164.46
+58,2024-11-18,10:50:00,Sarah Black,Samsung,Galaxy A14,274.97,2,Online,David Lee,Midtown,2,Charger,4,121.66
+59,2024-05-06,17:57:00,John Doe,Xiaomi,Redmi Note 13,1300.03,2,Online,Claire Williams,Suburban,2,Headphones,5,3.65
+60,2024-05-13,17:33:00,Alice Green,Oppo,A78,971.08,3,Cash,Emma Brown,Suburban,1,Headphones,2,71.45
+61,2024-01-03,15:55:00,Bob White,Apple,iPhone SE 2024,805.8,3,Online,Claire Williams,Uptown,2,Headphones,2,192.84
+62,2024-10-22,16:34:00,Bob White,Apple,iPhone SE 2024,955.8,3,Cash,Bob Johnson,Suburban,1,Charger,3,169.68
+63,2024-02-12,15:26:00,Alice Green,OnePlus,OnePlus Ace,525.21,2,Cash,Emma Brown,Uptown,3,Charger,2,146.89
+64,2024-01-08,14:57:00,Mike Brown,Apple,iPhone 14,497.84,3,Cash,David Lee,Midtown,2,Charger,4,94.33
+65,2024-07-03,18:30:00,Sarah Black,Apple,iPhone SE 2024,491.01,2,Cash,David Lee,Uptown,1,Charger,5,52.17
+66,2024-11-11,11:04:00,Sarah Black,Oppo,Reno 10,328.16,1,Cash,Alice Smith,Suburban,2,None,5,107.71
+67,2024-03-21,17:55:00,Sarah Black,Samsung,Galaxy Z Fold 5,1442.41,2,Card,David Lee,Midtown,1,Headphones,4,14.46
+68,2024-09-07,20:31:00,John Doe,Xiaomi,Mi 13 Ultra,578.46,1,Cash,Claire Williams,Suburban,3,Screen Protector,1,166.03
+69,2024-05-19,15:24:00,Alice Green,Apple,iPhone 14,1146.7,2,Card,Alice Smith,Midtown,1,Headphones,4,28.26
+70,2024-03-09,12:37:00,Bob White,Xiaomi,Redmi Note 13,211.51,1,Cash,Emma Brown,Suburban,2,Charger,3,151.58
+71,2024-09-11,12:59:00,Alice Green,Vivo,Y200,1306.16,1,Online,Alice Smith,Midtown,3,None,3,199.15
+72,2024-09-19,15:41:00,Alice Green,Oppo,Find X6 Pro,791.7,1,Online,David Lee,Uptown,3,Charger,5,158.21
+73,2024-05-15,11:45:00,Sarah Black,Vivo,Y200,1247.0,1,Cash,Claire Williams,Uptown,1,None,2,23.92
+74,2024-07-12,18:48:00,Mike Brown,Oppo,A78,235.51,1,Online,Alice Smith,Uptown,3,None,2,153.3
+75,2024-03-01,18:06:00,John Doe,OnePlus,Nord CE 3 Lite,535.46,1,Cash,Claire Williams,Uptown,3,None,5,11.26
+76,2024-01-26,19:33:00,Alice Green,Xiaomi,Redmi Note 13,1387.45,1,Cash,Claire Williams,Midtown,3,Screen Protector,5,119.44
+77,2024-11-22,10:29:00,Mike Brown,Oppo,A78,812.91,3,Card,Emma Brown,Midtown,1,Headphones,4,134.77
+78,2024-09-28,19:43:00,Jane Smith,Oppo,Reno 10,990.41,1,Card,David Lee,Midtown,1,Screen Protector,4,5.52
+79,2024-11-23,19:47:00,Mike Brown,Xiaomi,Mi 13 Ultra,725.65,1,Cash,Claire Williams,Suburban,3,Charger,4,163.11
+80,2024-10-21,20:38:00,Sarah Black,Xiaomi,Redmi Note 13,1115.61,2,Online,Bob Johnson,Suburban,1,Screen Protector,1,131.9
+81,2024-06-03,10:42:00,Bob White,OnePlus,OnePlus 11,1292.97,2,Cash,Claire Williams,Midtown,1,Charger,4,144.8
+82,2024-01-03,10:38:00,John Doe,Apple,iPhone SE 2024,1320.43,1,Card,Alice Smith,Suburban,1,Headphones,2,186.01
+83,2024-10-10,17:54:00,Alice Green,Xiaomi,Mi 13 Ultra,765.01,2,Cash,Alice Smith,Downtown,3,Headphones,4,163.46
+84,2024-10-28,19:56:00,Alice Green,Oppo,Reno 10,1148.05,2,Cash,Emma Brown,Midtown,3,None,4,119.63
+85,2024-04-16,17:39:00,Mike Brown,Oppo,Find X6 Pro,322.33,2,Online,Alice Smith,Suburban,1,None,4,166.05
+86,2024-08-02,14:53:00,Sarah Black,OnePlus,Nord CE 3 Lite,1495.71,1,Cash,Claire Williams,Suburban,2,Charger,2,179.21
+87,2024-09-12,11:15:00,Jane Smith,Apple,iPhone 15 Pro,232.19,3,Online,Claire Williams,Downtown,3,Headphones,2,65.18
+88,2024-01-10,20:01:00,Sarah Black,Apple,iPhone 14,602.22,1,Card,Alice Smith,Suburban,1,Headphones,2,141.66
+89,2024-05-05,16:20:00,Bob White,Xiaomi,Redmi Note 13,293.51,2,Cash,Bob Johnson,Uptown,3,None,4,26.91
+90,2024-04-06,14:06:00,Sarah Black,Samsung,Galaxy Z Fold 5,340.83,3,Cash,Emma Brown,Uptown,2,None,1,193.59
+91,2024-03-22,19:08:00,Bob White,Vivo,V29 Pro,454.81,1,Card,Claire Williams,Uptown,2,None,3,182.52
+92,2024-09-27,18:25:00,John Doe,Apple,iPhone SE 2024,1228.57,2,Cash,Claire Williams,Uptown,2,Screen Protector,2,177.83
+93,2024-01-21,11:31:00,Jane Smith,Vivo,Y200,582.64,2,Online,Claire Williams,Suburban,2,None,5,183.3
+94,2024-07-26,09:51:00,John Doe,Oppo,Reno 10,218.0,1,Card,Alice Smith,Midtown,2,None,4,4.9
+95,2024-11-03,19:18:00,Alice Green,OnePlus,OnePlus 11,590.68,2,Online,Bob Johnson,Uptown,1,Headphones,3,2.05
+96,2024-07-06,10:15:00,Mike Brown,Samsung,Galaxy Z Fold 5,226.38,3,Card,Claire Williams,Downtown,3,Screen Protector,1,194.22
+97,2024-12-24,14:58:00,John Doe,Oppo,Find X6 Pro,987.36,1,Card,Alice Smith,Midtown,2,Screen Protector,4,77.85
+98,2024-06-30,16:07:00,Alice Green,Apple,iPhone 14,365.65,1,Online,Alice Smith,Midtown,2,Charger,3,186.87
+99,2024-04-12,16:06:00,John Doe,Vivo,Y200,1342.23,2,Cash,Emma Brown,Uptown,1,Headphones,5,41.16
+100,2024-12-04,18:55:00,Alice Green,Vivo,Y200,1481.39,3,Cash,Alice Smith,Uptown,3,Screen Protector,2,153.68
+101,2024-01-07,19:56:00,Alice Green,Samsung,Galaxy A14,244.96,1,Cash,Bob Johnson,Midtown,2,Screen Protector,2,7.06
+102,2024-12-06,15:32:00,John Doe,Samsung,Galaxy Z Fold 5,1312.54,3,Card,David Lee,Midtown,2,Charger,3,187.47
+103,2024-04-30,15:30:00,Jane Smith,OnePlus,OnePlus Ace,1222.95,2,Card,David Lee,Downtown,1,Screen Protector,4,106.76
+104,2024-05-20,15:36:00,Jane Smith,Xiaomi,Redmi Note 13,904.1,3,Cash,Bob Johnson,Uptown,3,Headphones,3,160.99
+105,2024-02-28,12:21:00,Bob White,Vivo,V29 Pro,776.34,1,Online,Bob Johnson,Uptown,1,None,5,30.06
+106,2024-05-14,09:37:00,Mike Brown,Xiaomi,Mi 13 Ultra,983.55,3,Cash,Emma Brown,Midtown,1,Charger,1,118.75
+107,2024-01-01,14:44:00,Alice Green,OnePlus,OnePlus 11,423.47,2,Cash,Bob Johnson,Suburban,2,Charger,5,61.34
+108,2024-10-01,16:59:00,Sarah Black,OnePlus,OnePlus Ace,1052.5,3,Cash,Alice Smith,Uptown,3,Screen Protector,1,151.68
+109,2024-04-25,15:46:00,Bob White,Xiaomi,Poco X5 Pro,376.79,3,Online,Emma Brown,Suburban,2,Charger,3,111.18
+110,2024-02-20,13:41:00,Bob White,Xiaomi,Mi 13 Ultra,917.92,3,Cash,Claire Williams,Downtown,3,Headphones,2,173.9
+111,2024-10-26,19:33:00,Jane Smith,Xiaomi,Redmi Note 13,599.54,1,Online,David Lee,Downtown,2,Headphones,3,28.88
+112,2024-09-02,11:21:00,Mike Brown,OnePlus,OnePlus Ace,444.52,2,Card,David Lee,Downtown,3,Screen Protector,3,99.3
+113,2024-03-20,10:33:00,John Doe,Oppo,A78,1058.9,3,Cash,Claire Williams,Midtown,3,Screen Protector,5,175.05
+114,2024-07-22,13:24:00,Sarah Black,Vivo,X100 Pro,384.74,3,Online,Emma Brown,Downtown,2,Screen Protector,3,169.12
+115,2024-07-26,12:32:00,Alice Green,Xiaomi,Mi 13 Ultra,1205.45,1,Card,Alice Smith,Uptown,2,Headphones,3,109.29
+116,2024-08-26,20:45:00,Sarah Black,Vivo,Y200,1154.04,1,Online,Alice Smith,Uptown,3,None,2,57.25
+117,2024-10-09,13:17:00,Mike Brown,Xiaomi,Redmi Note 13,464.45,3,Card,Bob Johnson,Downtown,3,None,3,75.71
+118,2024-07-14,19:57:00,Alice Green,Xiaomi,Poco X5 Pro,1041.05,3,Online,Emma Brown,Midtown,2,None,4,95.87
+119,2024-07-10,19:55:00,Jane Smith,OnePlus,OnePlus Ace,618.97,2,Cash,Claire Williams,Suburban,1,Screen Protector,3,185.18
+120,2024-03-20,16:51:00,Mike Brown,Apple,iPhone 14,1191.79,2,Cash,Claire Williams,Downtown,1,Screen Protector,3,6.5
+121,2024-07-11,18:22:00,Jane Smith,OnePlus,OnePlus Ace,535.41,3,Online,Claire Williams,Midtown,2,Headphones,4,31.29
+122,2024-04-16,12:56:00,John Doe,Vivo,V29 Pro,574.26,1,Online,Emma Brown,Midtown,3,Headphones,4,146.39
+123,2024-03-13,19:53:00,Sarah Black,Xiaomi,Mi 13 Ultra,1005.94,2,Cash,Emma Brown,Uptown,3,None,3,187.3
+124,2024-02-10,20:01:00,Sarah Black,Vivo,X100 Pro,622.18,3,Cash,Claire Williams,Uptown,3,Charger,1,177.76
+125,2024-04-26,15:10:00,Alice Green,Vivo,X100 Pro,444.54,2,Cash,Alice Smith,Midtown,1,Charger,1,167.78
+126,2024-01-21,20:35:00,John Doe,Vivo,Y200,1170.01,1,Card,Claire Williams,Downtown,3,Charger,1,138.21
+127,2024-09-22,18:37:00,Jane Smith,Apple,iPhone 14,1238.65,3,Online,Emma Brown,Midtown,3,Screen Protector,3,97.63
+128,2024-07-25,14:51:00,John Doe,Xiaomi,Poco X5 Pro,1124.47,3,Online,David Lee,Suburban,2,Screen Protector,4,115.78
+129,2024-01-28,19:00:00,Bob White,Apple,iPhone 15 Pro,890.95,3,Card,Bob Johnson,Uptown,1,Charger,4,164.23
+130,2024-10-29,10:20:00,Bob White,Oppo,A78,898.06,2,Online,David Lee,Suburban,1,Headphones,4,80.68
+131,2024-08-13,14:31:00,Jane Smith,Xiaomi,Mi 13 Ultra,327.3,2,Cash,Emma Brown,Downtown,1,Headphones,4,54.86
+132,2024-09-07,19:57:00,Bob White,Oppo,A78,512.59,2,Card,David Lee,Midtown,2,Headphones,3,107.33
+133,2024-02-15,10:27:00,Sarah Black,Xiaomi,Mi 13 Ultra,818.82,2,Card,Alice Smith,Suburban,2,Charger,2,13.37
+134,2024-11-29,17:47:00,John Doe,Xiaomi,Mi 13 Ultra,745.42,2,Online,Emma Brown,Downtown,1,None,3,149.34
+135,2024-02-21,11:14:00,Jane Smith,Samsung,Galaxy S23,1296.84,1,Card,Emma Brown,Uptown,2,Screen Protector,1,135.7
+136,2024-07-31,15:15:00,Alice Green,Apple,iPhone SE 2024,1189.68,1,Card,Alice Smith,Midtown,3,Screen Protector,5,154.77
+137,2024-03-29,20:16:00,Alice Green,Oppo,Find X6 Pro,622.01,2,Cash,Emma Brown,Downtown,3,Charger,2,12.84
+138,2024-07-30,13:18:00,John Doe,Xiaomi,Mi 13 Ultra,700.19,2,Card,Alice Smith,Uptown,1,None,3,63.55
+139,2024-11-07,16:11:00,Bob White,Apple,iPhone SE 2024,403.79,3,Cash,Emma Brown,Midtown,1,Screen Protector,5,80.08
+140,2024-03-03,11:25:00,Bob White,Oppo,Find X6 Pro,908.14,1,Online,David Lee,Suburban,3,Charger,4,12.68
+141,2024-05-31,19:33:00,Jane Smith,OnePlus,OnePlus 11,631.65,3,Cash,Alice Smith,Downtown,1,Screen Protector,2,116.7
+142,2024-11-09,15:39:00,Jane Smith,Samsung,Galaxy S23,1136.1,2,Online,David Lee,Downtown,1,Headphones,5,35.14
+143,2024-01-30,14:57:00,Mike Brown,OnePlus,OnePlus 11,724.43,2,Card,David Lee,Downtown,3,None,3,102.98
+144,2024-06-25,17:45:00,Alice Green,Oppo,Find X6 Pro,1243.01,1,Cash,David Lee,Uptown,3,None,1,12.64
+145,2024-05-24,16:23:00,Sarah Black,Apple,iPhone 15 Pro,832.29,2,Cash,Claire Williams,Midtown,3,None,2,30.95
+146,2024-03-24,12:50:00,Sarah Black,OnePlus,OnePlus 11,777.53,2,Card,Alice Smith,Uptown,3,Charger,4,132.53
+147,2024-11-02,15:42:00,Sarah Black,Vivo,X100 Pro,518.71,2,Card,Emma Brown,Uptown,2,Screen Protector,3,52.01
+148,2024-06-14,18:22:00,Mike Brown,Oppo,Reno 10,659.84,1,Cash,Alice Smith,Downtown,1,Charger,5,78.1
+149,2024-11-10,12:21:00,Jane Smith,Xiaomi,Redmi Note 13,505.93,3,Online,Emma Brown,Uptown,3,None,3,162.47
+150,2024-01-29,11:47:00,Bob White,Vivo,Y200,983.65,2,Cash,Emma Brown,Uptown,1,Headphones,2,166.33
+151,2024-04-19,16:46:00,John Doe,OnePlus,Nord CE 3 Lite,508.34,1,Card,David Lee,Downtown,1,Charger,5,192.28
+152,2024-08-25,13:57:00,Sarah Black,Apple,iPhone SE 2024,593.49,1,Online,David Lee,Suburban,2,Headphones,1,127.47
+153,2024-09-05,16:23:00,Jane Smith,Xiaomi,Poco X5 Pro,1312.11,1,Online,Emma Brown,Uptown,2,Headphones,4,41.98
+154,2024-04-04,15:09:00,Sarah Black,Samsung,Galaxy Z Fold 5,827.86,3,Online,Claire Williams,Uptown,3,Headphones,4,139.96
+155,2024-10-23,15:28:00,Sarah Black,Oppo,A78,1014.74,3,Online,Emma Brown,Downtown,1,Screen Protector,3,19.97
+156,2024-07-04,12:34:00,Alice Green,Xiaomi,Poco X5 Pro,528.01,2,Online,Alice Smith,Midtown,2,Screen Protector,2,74.31
+157,2024-05-29,13:53:00,Alice Green,Oppo,Find X6 Pro,755.71,1,Card,Bob Johnson,Suburban,2,Screen Protector,2,76.86
+158,2024-02-18,11:43:00,John Doe,Samsung,Galaxy S23,1213.74,3,Cash,Claire Williams,Midtown,1,Charger,5,97.62
+159,2024-06-24,16:17:00,Alice Green,Apple,iPhone 15 Pro,316.99,3,Cash,Alice Smith,Uptown,2,Headphones,2,114.66
+160,2024-05-16,20:43:00,Alice Green,Apple,iPhone SE 2024,515.71,3,Card,Alice Smith,Midtown,1,Headphones,1,108.66
+161,2024-02-16,13:05:00,Sarah Black,Samsung,Galaxy S23,371.74,3,Card,Bob Johnson,Suburban,2,Charger,4,32.77
+162,2024-06-15,19:52:00,Mike Brown,Xiaomi,Mi 13 Ultra,531.84,2,Card,Emma Brown,Uptown,3,None,1,122.87
+163,2024-07-11,12:11:00,John Doe,Samsung,Galaxy Z Fold 5,491.2,3,Online,Claire Williams,Downtown,2,None,1,151.54
+164,2024-11-04,09:41:00,Bob White,Apple,iPhone SE 2024,437.48,3,Card,Emma Brown,Downtown,3,Charger,3,73.35
+165,2024-09-22,09:46:00,Mike Brown,OnePlus,OnePlus 11,506.7,3,Cash,Emma Brown,Midtown,3,Headphones,1,13.02
+166,2024-12-10,09:33:00,Jane Smith,Samsung,Galaxy S23,353.07,1,Cash,Alice Smith,Midtown,3,None,2,67.85
+167,2024-12-05,15:04:00,Mike Brown,Oppo,A78,243.44,3,Card,Alice Smith,Suburban,3,Screen Protector,1,179.03
+168,2024-12-23,15:46:00,John Doe,OnePlus,OnePlus Ace,481.98,3,Online,Emma Brown,Downtown,2,None,1,16.42
+169,2024-04-12,09:47:00,John Doe,Xiaomi,Mi 13 Ultra,1490.64,3,Cash,Bob Johnson,Midtown,1,None,5,148.63
+170,2024-11-16,15:21:00,Mike Brown,OnePlus,OnePlus 11,314.24,2,Cash,Bob Johnson,Downtown,2,Screen Protector,5,55.02
+171,2024-11-09,14:20:00,Jane Smith,OnePlus,OnePlus 11,995.68,1,Card,Claire Williams,Uptown,3,Screen Protector,2,100.26
+172,2024-12-24,17:24:00,Sarah Black,Samsung,Galaxy S23,752.35,3,Cash,Bob Johnson,Midtown,1,Charger,3,175.8
+173,2024-02-07,18:06:00,Sarah Black,OnePlus,OnePlus Ace,971.9,1,Online,Alice Smith,Uptown,2,Headphones,1,27.75
+174,2024-12-30,18:20:00,Jane Smith,Samsung,Galaxy A14,460.48,3,Online,Bob Johnson,Downtown,1,Charger,4,152.42
+175,2024-06-07,18:25:00,Mike Brown,Apple,iPhone SE 2024,1100.74,2,Online,Claire Williams,Suburban,3,Screen Protector,3,184.39
+176,2024-10-08,16:07:00,Jane Smith,Apple,iPhone 14,203.07,1,Online,David Lee,Uptown,1,Screen Protector,1,120.0
+177,2024-04-11,20:08:00,John Doe,Oppo,A78,894.42,2,Online,Emma Brown,Uptown,1,Headphones,4,103.52
+178,2024-03-01,09:08:00,Mike Brown,OnePlus,OnePlus 11,489.84,3,Online,Emma Brown,Downtown,2,Headphones,3,43.32
+179,2024-10-25,19:10:00,Mike Brown,Apple,iPhone SE 2024,744.74,2,Cash,Emma Brown,Downtown,1,Charger,5,69.13
+180,2024-01-25,09:10:00,Sarah Black,Xiaomi,Mi 13 Ultra,1141.17,1,Cash,Claire Williams,Uptown,1,Screen Protector,5,43.61
+181,2024-05-08,10:47:00,Mike Brown,Oppo,A78,525.1,3,Card,Claire Williams,Suburban,2,Charger,4,198.34
+182,2024-01-17,16:54:00,Jane Smith,Samsung,Galaxy A14,614.87,3,Cash,Bob Johnson,Suburban,1,None,5,53.0
+183,2024-12-09,20:57:00,Sarah Black,Vivo,Y200,721.88,3,Online,Emma Brown,Uptown,1,Charger,3,169.5
+184,2024-05-25,10:08:00,Mike Brown,Samsung,Galaxy Z Fold 5,1369.29,3,Cash,Alice Smith,Downtown,2,Headphones,1,27.98
+185,2024-12-09,12:00:00,Mike Brown,Oppo,Reno 10,469.61,3,Online,Alice Smith,Uptown,3,Headphones,3,187.14
+186,2024-01-07,13:45:00,Jane Smith,Samsung,Galaxy Z Fold 5,369.58,1,Online,David Lee,Uptown,1,Charger,3,116.27
+187,2024-01-23,11:47:00,Alice Green,Oppo,Find X6 Pro,228.5,1,Online,David Lee,Midtown,3,Charger,3,177.51
+188,2024-01-30,09:32:00,Jane Smith,OnePlus,OnePlus Ace,448.24,1,Online,Alice Smith,Downtown,3,Charger,4,188.73
+189,2024-07-26,12:31:00,Mike Brown,Oppo,Find X6 Pro,617.95,2,Card,Claire Williams,Suburban,3,None,5,29.83
+190,2024-12-03,11:12:00,Jane Smith,Oppo,Find X6 Pro,252.55,3,Cash,Bob Johnson,Uptown,1,Screen Protector,2,110.01
+191,2024-04-17,13:41:00,Mike Brown,Apple,iPhone 14,495.18,3,Cash,Alice Smith,Uptown,3,None,5,87.19
+192,2024-11-03,15:02:00,Jane Smith,OnePlus,OnePlus 11,579.48,3,Online,Alice Smith,Downtown,2,Headphones,1,87.96
+193,2024-10-04,10:24:00,Mike Brown,Samsung,Galaxy Z Fold 5,550.34,1,Online,David Lee,Suburban,1,None,1,43.69
+194,2024-10-07,14:09:00,John Doe,Vivo,X100 Pro,1366.99,2,Cash,Alice Smith,Downtown,3,Charger,5,20.81
+195,2024-11-17,13:07:00,Jane Smith,OnePlus,Nord CE 3 Lite,872.56,1,Card,Emma Brown,Suburban,3,Headphones,3,30.04
+196,2024-01-27,10:20:00,Bob White,Apple,iPhone 15 Pro,534.92,1,Online,Bob Johnson,Downtown,2,Charger,1,84.65
+197,2024-12-01,18:20:00,Jane Smith,Samsung,Galaxy A14,1496.01,3,Online,Bob Johnson,Downtown,1,Headphones,3,79.69
+198,2024-06-05,16:30:00,Mike Brown,Oppo,A78,992.03,2,Online,David Lee,Downtown,2,Screen Protector,4,199.16
+199,2024-04-30,17:29:00,Mike Brown,Samsung,Galaxy A14,484.63,3,Card,David Lee,Downtown,1,Charger,4,117.2
+200,2024-01-26,20:56:00,Bob White,Samsung,Galaxy A14,360.34,3,Cash,David Lee,Suburban,1,Charger,4,132.18
+201,2024-03-25,15:16:00,Alice Green,Vivo,X100 Pro,1219.93,1,Card,Bob Johnson,Suburban,3,Screen Protector,2,22.88
+202,2024-07-10,17:57:00,John Doe,Samsung,Galaxy Z Fold 5,698.96,2,Online,David Lee,Uptown,3,Screen Protector,3,4.33
+203,2024-05-28,18:56:00,Bob White,Apple,iPhone 14,949.69,2,Card,Alice Smith,Downtown,3,Headphones,5,125.2
+204,2024-12-28,14:55:00,Mike Brown,Samsung,Galaxy Z Fold 5,1085.86,1,Online,Alice Smith,Uptown,3,Screen Protector,4,51.67
+205,2024-10-15,15:51:00,John Doe,OnePlus,OnePlus Ace,674.22,3,Cash,David Lee,Uptown,2,Headphones,3,53.79
+206,2024-03-28,14:25:00,Bob White,Vivo,Y200,1253.36,3,Cash,David Lee,Uptown,2,Headphones,2,118.66
+207,2024-09-14,10:27:00,Jane Smith,Xiaomi,Mi 13 Ultra,853.93,2,Cash,Alice Smith,Midtown,3,Headphones,1,4.56
+208,2024-05-29,14:34:00,John Doe,Oppo,A78,1421.67,1,Cash,David Lee,Midtown,1,None,1,12.25
+209,2024-10-07,16:39:00,Jane Smith,Xiaomi,Poco X5 Pro,645.51,3,Cash,Bob Johnson,Uptown,1,None,4,173.26
+210,2024-08-08,15:56:00,John Doe,Oppo,A78,1453.84,2,Online,Alice Smith,Midtown,2,Headphones,2,88.82
+211,2024-01-22,14:21:00,Alice Green,OnePlus,OnePlus 11,1309.42,2,Online,David Lee,Midtown,2,None,2,177.26
+212,2024-07-16,09:56:00,John Doe,Apple,iPhone SE 2024,424.11,2,Cash,Emma Brown,Downtown,1,Headphones,3,175.71
+213,2024-02-21,20:29:00,Bob White,Oppo,Reno 10,1329.46,2,Cash,David Lee,Suburban,2,Charger,2,187.71
+214,2024-05-25,13:42:00,Bob White,Vivo,Y200,531.12,2,Cash,Claire Williams,Downtown,2,Screen Protector,4,167.27
+215,2024-07-19,11:14:00,Mike Brown,OnePlus,Nord CE 3 Lite,992.05,1,Cash,Alice Smith,Midtown,2,Headphones,2,12.08
+216,2024-05-13,19:47:00,John Doe,Vivo,Y200,980.75,3,Online,Alice Smith,Suburban,3,None,1,22.44
+217,2024-11-06,11:24:00,Sarah Black,Apple,iPhone 15 Pro,738.37,1,Card,Emma Brown,Midtown,2,Screen Protector,4,70.44
+218,2024-06-20,09:02:00,Sarah Black,OnePlus,OnePlus Ace,404.09,1,Cash,Alice Smith,Suburban,1,Screen Protector,4,134.61
+219,2024-03-26,19:48:00,Alice Green,Oppo,Reno 10,1298.7,1,Cash,David Lee,Downtown,1,Headphones,3,28.3
+220,2024-03-06,19:59:00,Bob White,OnePlus,OnePlus Ace,1268.04,1,Online,Claire Williams,Suburban,1,Headphones,3,55.21
+221,2024-02-28,17:53:00,Mike Brown,Samsung,Galaxy A14,1461.6,2,Cash,Claire Williams,Midtown,1,Headphones,2,81.61
+222,2024-09-18,13:21:00,Jane Smith,Xiaomi,Poco X5 Pro,952.44,3,Online,Claire Williams,Suburban,3,Screen Protector,4,42.78
+223,2024-08-10,12:57:00,John Doe,Vivo,V29 Pro,314.12,1,Cash,Bob Johnson,Downtown,3,Screen Protector,4,155.39
+224,2024-04-09,19:50:00,Sarah Black,Vivo,X100 Pro,772.26,1,Cash,Bob Johnson,Midtown,3,Headphones,2,183.93
+225,2024-02-19,13:04:00,Jane Smith,Vivo,Y200,1006.78,1,Online,Alice Smith,Midtown,3,Charger,1,6.88
+226,2024-03-31,17:01:00,John Doe,Vivo,V29 Pro,1058.91,1,Online,Claire Williams,Midtown,2,Charger,5,37.06
+227,2024-02-11,14:36:00,Mike Brown,Xiaomi,Redmi Note 13,765.49,3,Cash,Alice Smith,Uptown,2,Headphones,3,57.71
+228,2024-06-12,19:57:00,Bob White,OnePlus,OnePlus 11,522.47,2,Online,Claire Williams,Downtown,3,None,5,63.28
+229,2024-10-12,12:39:00,John Doe,Oppo,Reno 10,933.3,3,Cash,Emma Brown,Downtown,1,None,5,40.43
+230,2024-04-22,17:31:00,Sarah Black,Apple,iPhone 15 Pro,361.12,2,Online,Emma Brown,Uptown,1,Screen Protector,3,52.17
+231,2024-06-21,09:31:00,Jane Smith,Vivo,X100 Pro,752.08,1,Online,Bob Johnson,Midtown,2,None,4,102.57
+232,2024-07-17,17:19:00,John Doe,Apple,iPhone 14,475.5,2,Online,Emma Brown,Midtown,1,Charger,2,66.68
+233,2024-10-20,16:26:00,Jane Smith,Samsung,Galaxy Z Fold 5,1040.29,2,Cash,Claire Williams,Uptown,3,None,4,140.37
+234,2024-02-28,18:48:00,Jane Smith,Samsung,Galaxy Z Fold 5,1381.59,2,Online,David Lee,Suburban,1,Headphones,2,39.37
+235,2024-07-15,10:19:00,Mike Brown,Oppo,A78,1185.09,2,Card,Bob Johnson,Suburban,2,Screen Protector,1,5.77
+236,2024-01-26,11:42:00,John Doe,Oppo,A78,272.92,2,Online,David Lee,Uptown,1,None,4,151.09
+237,2024-03-13,15:02:00,Bob White,Xiaomi,Mi 13 Ultra,471.14,2,Online,Bob Johnson,Midtown,1,Charger,2,72.4
+238,2024-10-11,17:33:00,Bob White,Samsung,Galaxy Z Fold 5,552.97,3,Cash,Emma Brown,Downtown,3,Charger,4,25.96
+239,2024-09-11,13:12:00,Sarah Black,Apple,iPhone 14,1036.65,1,Card,Alice Smith,Midtown,1,Charger,3,192.62
+240,2024-11-04,19:30:00,Mike Brown,Oppo,Reno 10,1497.29,2,Online,Bob Johnson,Midtown,3,Headphones,3,59.65
+241,2024-05-22,15:21:00,Alice Green,Oppo,Find X6 Pro,342.55,3,Card,Claire Williams,Downtown,1,Headphones,1,77.69
+242,2024-01-04,14:30:00,Alice Green,Vivo,X100 Pro,230.71,3,Online,Claire Williams,Midtown,1,Headphones,4,3.54
+243,2024-11-21,18:38:00,Bob White,Vivo,Y200,1383.78,2,Cash,Alice Smith,Midtown,1,Screen Protector,5,46.26
+244,2024-11-28,16:29:00,Mike Brown,Samsung,Galaxy S23,1250.93,1,Cash,Bob Johnson,Suburban,3,Charger,5,176.49
+245,2024-01-01,12:35:00,Bob White,Samsung,Galaxy A14,1270.78,2,Card,Claire Williams,Suburban,2,Screen Protector,1,50.84
+246,2024-09-11,17:12:00,Alice Green,Vivo,X100 Pro,1475.65,2,Online,Alice Smith,Midtown,1,Charger,3,153.83
+247,2024-08-23,15:05:00,Bob White,Xiaomi,Poco X5 Pro,650.45,1,Card,David Lee,Downtown,1,Screen Protector,5,96.65
+248,2024-10-15,19:08:00,Mike Brown,Samsung,Galaxy A14,577.53,2,Cash,Claire Williams,Downtown,1,Charger,4,191.12
+249,2024-06-12,09:27:00,Jane Smith,Samsung,Galaxy S23,1246.94,1,Cash,David Lee,Midtown,3,None,1,20.19
+250,2024-04-21,20:32:00,Jane Smith,Vivo,V29 Pro,1348.59,3,Cash,David Lee,Suburban,1,None,5,179.65
+251,2024-12-05,16:44:00,Jane Smith,Xiaomi,Mi 13 Ultra,1057.98,2,Online,David Lee,Downtown,2,Headphones,4,112.19
+252,2024-02-01,13:40:00,Sarah Black,Samsung,Galaxy A14,1305.21,1,Online,Emma Brown,Suburban,2,None,1,109.27
+253,2024-05-26,09:59:00,Sarah Black,Apple,iPhone 14,562.64,1,Cash,David Lee,Uptown,1,None,1,49.04
+254,2024-03-01,16:31:00,Alice Green,Xiaomi,Poco X5 Pro,926.0,3,Online,Claire Williams,Suburban,1,Screen Protector,1,168.56
+255,2024-04-08,10:48:00,Bob White,OnePlus,OnePlus Ace,1466.21,2,Card,Alice Smith,Downtown,3,Charger,1,62.88
+256,2024-12-06,09:50:00,Alice Green,OnePlus,Nord CE 3 Lite,1453.86,2,Online,Emma Brown,Downtown,2,Screen Protector,2,48.07
+257,2024-10-16,13:03:00,John Doe,OnePlus,OnePlus Ace,1139.69,1,Cash,Claire Williams,Downtown,3,Headphones,3,49.8
+258,2024-12-27,10:12:00,Jane Smith,Xiaomi,Mi 13 Ultra,932.73,3,Cash,Emma Brown,Uptown,2,None,2,76.45
+259,2024-06-22,14:38:00,Jane Smith,Xiaomi,Redmi Note 13,589.25,3,Cash,Emma Brown,Downtown,3,Charger,1,188.64
+260,2024-08-20,18:40:00,John Doe,Xiaomi,Mi 13 Ultra,248.08,1,Cash,Emma Brown,Downtown,1,Headphones,5,104.56
+261,2024-09-28,15:05:00,Jane Smith,Samsung,Galaxy Z Fold 5,541.85,3,Card,Claire Williams,Midtown,2,Charger,3,93.9
+262,2024-02-22,11:11:00,Mike Brown,Samsung,Galaxy Z Fold 5,480.57,1,Card,David Lee,Downtown,2,Headphones,3,86.08
+263,2024-02-11,14:35:00,John Doe,Oppo,Find X6 Pro,267.83,3,Card,Claire Williams,Midtown,3,None,4,14.5
+264,2024-06-19,12:51:00,Bob White,Samsung,Galaxy Z Fold 5,1342.18,2,Cash,Bob Johnson,Midtown,1,Screen Protector,5,163.97
+265,2024-09-05,14:35:00,Mike Brown,Apple,iPhone SE 2024,422.46,2,Cash,Bob Johnson,Downtown,3,Charger,3,134.51
+266,2024-04-21,19:19:00,Mike Brown,Vivo,X100 Pro,446.84,1,Online,Emma Brown,Uptown,3,Headphones,4,155.57
+267,2024-12-26,10:28:00,Alice Green,Vivo,V29 Pro,806.89,3,Cash,David Lee,Downtown,3,Headphones,1,61.51
+268,2024-09-03,16:19:00,Alice Green,Xiaomi,Redmi Note 13,1449.16,3,Card,Bob Johnson,Suburban,1,Headphones,2,182.45
+269,2024-08-20,15:45:00,Mike Brown,Oppo,Find X6 Pro,442.14,3,Card,Bob Johnson,Suburban,1,Screen Protector,2,38.44
+270,2024-06-30,19:00:00,John Doe,Oppo,Reno 10,697.98,1,Cash,Claire Williams,Downtown,3,Screen Protector,3,120.74
+271,2024-06-06,18:54:00,John Doe,OnePlus,Nord CE 3 Lite,1099.9,1,Online,David Lee,Uptown,1,Charger,2,103.56
+272,2024-04-26,12:09:00,Bob White,Apple,iPhone 15 Pro,1105.69,1,Online,David Lee,Uptown,2,Headphones,4,18.33
+273,2024-07-11,13:45:00,John Doe,Xiaomi,Redmi Note 13,1457.18,3,Card,Bob Johnson,Midtown,2,Headphones,4,199.84
+274,2024-03-09,10:56:00,Mike Brown,OnePlus,OnePlus Ace,946.79,1,Online,Emma Brown,Midtown,1,None,4,138.35
+275,2024-06-17,18:59:00,John Doe,Vivo,Y200,522.51,3,Cash,Claire Williams,Midtown,1,Charger,1,190.41
+276,2024-02-08,10:02:00,John Doe,Xiaomi,Poco X5 Pro,1496.8,3,Online,David Lee,Uptown,3,None,5,81.56
+277,2024-05-25,11:54:00,Bob White,Vivo,V29 Pro,912.12,2,Card,Claire Williams,Uptown,1,Charger,5,118.96
+278,2024-12-20,20:19:00,Alice Green,Xiaomi,Redmi Note 13,1338.11,3,Cash,Emma Brown,Suburban,1,None,4,142.31
+279,2024-06-27,17:58:00,Jane Smith,Oppo,Find X6 Pro,542.07,2,Card,Alice Smith,Downtown,1,Charger,5,145.77
+280,2024-06-05,10:34:00,Jane Smith,Apple,iPhone 15 Pro,1495.3,3,Card,Emma Brown,Midtown,2,Charger,1,21.14
+281,2024-04-30,17:55:00,Alice Green,OnePlus,Nord CE 3 Lite,1360.83,1,Card,Claire Williams,Uptown,1,Screen Protector,4,27.19
+282,2024-01-21,13:43:00,Sarah Black,OnePlus,Nord CE 3 Lite,1358.17,2,Online,Claire Williams,Downtown,2,Charger,3,188.7
+283,2024-07-20,09:05:00,Bob White,OnePlus,Nord CE 3 Lite,1113.54,1,Cash,David Lee,Midtown,2,Screen Protector,1,9.88
+284,2024-04-22,18:53:00,Sarah Black,Vivo,Y200,296.85,1,Card,Bob Johnson,Midtown,3,None,4,84.84
+285,2024-07-29,12:17:00,John Doe,OnePlus,Nord CE 3 Lite,1256.25,3,Online,Alice Smith,Midtown,2,Headphones,2,166.95
+286,2024-12-12,17:16:00,John Doe,Apple,iPhone 14,1414.74,1,Online,Bob Johnson,Midtown,1,None,5,132.85
+287,2024-11-06,18:53:00,John Doe,Vivo,X100 Pro,498.85,1,Online,Claire Williams,Uptown,2,Charger,5,96.4
+288,2024-11-20,19:26:00,Mike Brown,OnePlus,OnePlus 11,852.87,2,Online,Alice Smith,Midtown,3,None,5,102.82
+289,2024-05-22,20:04:00,Mike Brown,Samsung,Galaxy S23,1302.18,3,Card,Bob Johnson,Midtown,3,None,4,95.57
+290,2024-03-10,11:15:00,Sarah Black,Apple,iPhone 15 Pro,417.87,3,Online,Bob Johnson,Downtown,2,None,3,21.11
+291,2024-05-30,11:52:00,Bob White,Apple,iPhone 14,634.33,2,Online,Claire Williams,Midtown,3,Charger,4,37.59
+292,2024-05-29,13:08:00,John Doe,Oppo,Reno 10,964.51,3,Cash,Emma Brown,Suburban,3,Headphones,2,44.97
+293,2024-01-14,17:19:00,Jane Smith,Xiaomi,Redmi Note 13,998.47,2,Online,Claire Williams,Suburban,1,Screen Protector,1,138.16
+294,2024-09-04,16:57:00,Jane Smith,Xiaomi,Mi 13 Ultra,712.28,3,Cash,Emma Brown,Midtown,2,Headphones,4,22.4
+295,2024-01-07,14:49:00,Alice Green,Apple,iPhone SE 2024,1437.59,3,Online,Bob Johnson,Downtown,1,Headphones,5,169.07
+296,2024-10-14,16:47:00,Alice Green,OnePlus,Nord CE 3 Lite,1439.59,1,Card,Alice Smith,Midtown,3,Charger,5,119.53
+297,2024-09-20,20:47:00,Jane Smith,Oppo,Find X6 Pro,667.82,1,Cash,Bob Johnson,Midtown,3,Headphones,1,6.83
+298,2024-11-13,16:19:00,Sarah Black,Apple,iPhone SE 2024,1038.0,1,Online,Alice Smith,Downtown,3,Screen Protector,1,174.97
+299,2024-02-23,11:04:00,Sarah Black,Oppo,Reno 10,634.67,3,Cash,Emma Brown,Uptown,1,None,4,187.6
+300,2024-12-08,17:25:00,Bob White,Vivo,Y200,1163.02,2,Cash,Emma Brown,Suburban,3,None,5,56.41
+301,2024-04-20,18:25:00,Jane Smith,Vivo,V29 Pro,919.14,1,Online,Alice Smith,Downtown,1,None,2,107.43
+302,2024-04-15,20:08:00,Sarah Black,Xiaomi,Poco X5 Pro,1428.34,3,Online,Claire Williams,Midtown,2,Charger,3,125.31
+303,2024-04-21,15:00:00,Sarah Black,Samsung,Galaxy S23,937.22,1,Online,Claire Williams,Suburban,2,Charger,3,93.51
+304,2024-07-31,20:58:00,John Doe,Apple,iPhone 15 Pro,1196.99,1,Cash,David Lee,Suburban,3,None,1,124.13
+305,2024-11-03,11:47:00,Sarah Black,Vivo,Y200,708.62,1,Card,Bob Johnson,Downtown,2,Charger,2,76.11
+306,2024-02-15,13:21:00,Mike Brown,Xiaomi,Mi 13 Ultra,1036.94,2,Cash,Claire Williams,Midtown,1,Screen Protector,4,68.34
+307,2024-06-23,10:29:00,Sarah Black,Samsung,Galaxy S23,1419.48,3,Online,David Lee,Downtown,3,Headphones,1,64.47
+308,2024-02-12,17:28:00,Sarah Black,Vivo,X100 Pro,1233.77,1,Card,David Lee,Midtown,3,Headphones,1,185.85
+309,2024-02-01,16:45:00,Alice Green,Xiaomi,Mi 13 Ultra,1082.94,1,Online,David Lee,Suburban,3,Headphones,2,112.08
+310,2024-02-29,11:16:00,Sarah Black,Oppo,A78,392.67,3,Online,David Lee,Midtown,3,Headphones,5,3.37
+311,2024-04-29,18:06:00,Bob White,Apple,iPhone 14,1392.52,2,Online,Emma Brown,Midtown,3,None,5,149.21
+312,2024-12-17,15:27:00,Mike Brown,Samsung,Galaxy A14,1405.6,2,Card,Bob Johnson,Uptown,2,None,1,40.01
+313,2024-12-01,17:27:00,Jane Smith,Xiaomi,Poco X5 Pro,877.39,2,Online,Alice Smith,Downtown,3,Screen Protector,3,30.47
+314,2024-05-26,10:13:00,Jane Smith,Apple,iPhone SE 2024,283.61,3,Cash,Bob Johnson,Midtown,2,None,1,21.61
+315,2024-02-24,13:45:00,Mike Brown,Apple,iPhone 15 Pro,806.2,3,Online,Alice Smith,Downtown,1,Headphones,2,79.44
+316,2024-07-11,12:55:00,John Doe,Apple,iPhone 15 Pro,1217.29,3,Cash,Alice Smith,Suburban,2,Charger,4,174.19
+317,2024-07-20,09:51:00,Mike Brown,Vivo,X100 Pro,432.88,1,Card,Claire Williams,Suburban,1,None,4,24.86
+318,2024-02-02,14:48:00,Sarah Black,Vivo,V29 Pro,902.46,2,Online,David Lee,Uptown,2,Charger,1,73.32
+319,2024-09-18,15:33:00,Bob White,OnePlus,OnePlus Ace,867.97,2,Card,Claire Williams,Uptown,3,Headphones,1,172.25
+320,2024-03-09,18:16:00,Sarah Black,Vivo,X100 Pro,601.51,3,Card,Emma Brown,Uptown,1,None,2,108.0
+321,2024-11-12,18:53:00,Sarah Black,Samsung,Galaxy S23,655.7,3,Cash,Alice Smith,Midtown,2,Headphones,5,57.84
+322,2024-07-17,18:20:00,Mike Brown,Vivo,X100 Pro,1006.72,3,Cash,Emma Brown,Uptown,1,Headphones,2,102.0
+323,2024-05-16,14:30:00,Sarah Black,Vivo,Y200,1131.79,1,Online,Alice Smith,Uptown,1,Screen Protector,3,154.6
+324,2024-10-10,20:34:00,John Doe,Oppo,A78,1451.17,3,Online,Claire Williams,Downtown,1,Charger,1,184.03
+325,2024-01-04,19:33:00,Mike Brown,OnePlus,Nord CE 3 Lite,600.23,1,Cash,Alice Smith,Uptown,2,None,2,28.46
+326,2024-02-25,12:19:00,John Doe,Oppo,Find X6 Pro,915.15,3,Online,David Lee,Downtown,1,Charger,2,97.19
+327,2024-06-04,15:51:00,Mike Brown,Samsung,Galaxy A14,398.77,3,Online,Alice Smith,Uptown,1,Charger,2,33.7
+328,2024-09-20,18:50:00,Sarah Black,OnePlus,OnePlus Ace,675.12,3,Card,Alice Smith,Downtown,3,Headphones,4,171.57
+329,2024-02-09,16:45:00,Alice Green,Xiaomi,Poco X5 Pro,247.49,2,Cash,Emma Brown,Uptown,2,None,2,195.82
+330,2024-10-18,14:47:00,John Doe,Samsung,Galaxy A14,1358.0,1,Cash,David Lee,Uptown,2,None,4,167.32
+331,2024-03-25,18:42:00,Sarah Black,Vivo,X100 Pro,486.47,1,Online,David Lee,Uptown,2,Screen Protector,1,136.72
+332,2024-12-12,14:51:00,John Doe,Vivo,V29 Pro,837.65,2,Cash,Claire Williams,Uptown,1,Headphones,3,33.1
+333,2024-12-31,19:31:00,Sarah Black,Samsung,Galaxy A14,1328.45,2,Online,Emma Brown,Suburban,1,Headphones,5,63.8
+334,2024-05-13,19:47:00,Sarah Black,Xiaomi,Redmi Note 13,465.05,1,Cash,David Lee,Downtown,3,None,5,41.22
+335,2024-05-11,10:01:00,Alice Green,Apple,iPhone 14,841.72,2,Card,Bob Johnson,Midtown,3,None,2,24.33
+336,2024-03-16,17:26:00,Bob White,Oppo,Reno 10,1155.43,2,Cash,Alice Smith,Uptown,1,Charger,3,57.06
+337,2024-06-09,13:18:00,Alice Green,Oppo,Find X6 Pro,380.37,3,Online,Claire Williams,Uptown,2,Headphones,5,10.84
+338,2024-09-19,10:24:00,John Doe,Samsung,Galaxy Z Fold 5,1378.74,1,Card,Bob Johnson,Uptown,3,Headphones,5,113.77
+339,2024-05-30,18:29:00,Sarah Black,OnePlus,OnePlus Ace,886.71,1,Cash,Alice Smith,Suburban,2,Screen Protector,2,119.49
+340,2024-08-18,15:55:00,John Doe,Samsung,Galaxy A14,590.33,2,Cash,Emma Brown,Uptown,1,Headphones,1,65.91
+341,2024-09-20,15:05:00,Sarah Black,Samsung,Galaxy Z Fold 5,497.02,2,Cash,Emma Brown,Midtown,3,Headphones,3,183.79
+342,2024-06-03,19:00:00,John Doe,Xiaomi,Poco X5 Pro,238.29,3,Cash,Claire Williams,Downtown,3,Charger,5,87.64
+343,2024-02-07,20:41:00,Alice Green,Apple,iPhone 14,980.41,2,Card,Claire Williams,Uptown,1,Screen Protector,1,195.65
+344,2024-04-20,09:33:00,John Doe,Xiaomi,Redmi Note 13,636.52,2,Online,Emma Brown,Suburban,2,None,1,188.29
+345,2024-02-03,15:05:00,Mike Brown,Vivo,V29 Pro,1310.68,3,Cash,David Lee,Midtown,2,Charger,2,87.24
+346,2024-07-20,11:04:00,Alice Green,Vivo,X100 Pro,380.98,3,Cash,Claire Williams,Uptown,1,Charger,5,43.96
+347,2024-09-15,10:04:00,Bob White,Xiaomi,Poco X5 Pro,1283.62,2,Card,Alice Smith,Suburban,3,Headphones,4,7.84
+348,2024-03-08,15:33:00,John Doe,Oppo,Find X6 Pro,1274.9,2,Online,Emma Brown,Uptown,1,Headphones,3,168.02
+349,2024-10-30,12:30:00,Bob White,Samsung,Galaxy S23,1499.53,2,Card,Alice Smith,Uptown,1,Headphones,4,195.95
+350,2024-04-24,17:50:00,Mike Brown,Samsung,Galaxy A14,713.93,2,Cash,Bob Johnson,Suburban,3,Screen Protector,2,128.83
+351,2024-02-18,19:43:00,John Doe,Samsung,Galaxy A14,1466.57,1,Card,Alice Smith,Suburban,3,None,3,121.05
+352,2024-03-02,20:43:00,Bob White,OnePlus,OnePlus 11,1457.38,1,Cash,Alice Smith,Midtown,1,None,2,34.38
+353,2024-02-29,13:12:00,Mike Brown,Apple,iPhone 14,492.58,2,Card,Bob Johnson,Midtown,3,None,3,89.6
+354,2024-12-04,09:36:00,John Doe,Apple,iPhone SE 2024,1416.4,2,Online,David Lee,Downtown,2,Screen Protector,1,113.91
+355,2024-11-28,20:51:00,Bob White,Xiaomi,Redmi Note 13,1252.87,2,Card,Alice Smith,Downtown,3,None,2,41.52
+356,2024-10-31,19:51:00,Mike Brown,Vivo,V29 Pro,424.32,3,Card,Emma Brown,Midtown,1,Screen Protector,4,37.93
+357,2024-02-10,18:05:00,Jane Smith,Samsung,Galaxy A14,717.0,2,Cash,Bob Johnson,Uptown,2,Headphones,3,88.23
+358,2024-01-02,10:07:00,Bob White,Oppo,Reno 10,1493.95,2,Cash,David Lee,Uptown,3,Headphones,4,115.79
+359,2024-08-29,18:02:00,John Doe,Oppo,A78,945.9,2,Online,Bob Johnson,Suburban,3,Charger,2,21.62
+360,2024-03-08,11:17:00,Alice Green,OnePlus,OnePlus 11,1422.62,2,Card,David Lee,Uptown,3,Charger,1,144.15
+361,2024-04-10,12:04:00,Jane Smith,OnePlus,Nord CE 3 Lite,707.7,1,Cash,Claire Williams,Uptown,1,None,4,183.14
+362,2024-10-03,14:24:00,Bob White,Oppo,Reno 10,405.44,2,Online,Emma Brown,Downtown,1,Charger,4,112.59
+363,2024-05-31,18:57:00,Sarah Black,Samsung,Galaxy A14,289.01,1,Card,David Lee,Downtown,1,Headphones,1,104.13
+364,2024-11-20,18:17:00,Bob White,OnePlus,OnePlus 11,1114.25,3,Cash,Bob Johnson,Uptown,1,Screen Protector,2,162.64
+365,2024-08-28,15:11:00,Alice Green,Samsung,Galaxy A14,1256.01,1,Card,Emma Brown,Downtown,1,None,5,110.85
+366,2024-06-11,10:37:00,Sarah Black,Xiaomi,Redmi Note 13,364.99,3,Cash,David Lee,Uptown,3,Screen Protector,4,146.13
+367,2024-05-24,09:03:00,Sarah Black,Apple,iPhone SE 2024,1258.43,3,Online,Claire Williams,Downtown,3,Charger,3,29.2
+368,2024-11-01,11:14:00,Mike Brown,Samsung,Galaxy A14,689.87,2,Cash,David Lee,Uptown,3,Screen Protector,3,32.95
+369,2024-04-11,10:17:00,Bob White,OnePlus,OnePlus Ace,1043.96,3,Cash,Claire Williams,Suburban,3,None,3,177.51
+370,2024-05-28,13:22:00,Sarah Black,Vivo,Y200,928.97,1,Cash,Claire Williams,Suburban,3,Headphones,5,134.69
+371,2024-12-04,09:23:00,Bob White,Xiaomi,Mi 13 Ultra,333.52,3,Card,Claire Williams,Downtown,1,None,5,69.42
+372,2024-11-17,16:49:00,Jane Smith,Xiaomi,Poco X5 Pro,626.07,3,Card,Bob Johnson,Uptown,3,Headphones,4,33.21
+373,2024-11-27,17:52:00,Mike Brown,Oppo,Reno 10,834.18,2,Card,Claire Williams,Downtown,2,None,2,17.05
+374,2024-09-17,09:54:00,Bob White,Vivo,V29 Pro,386.04,3,Online,David Lee,Midtown,1,Headphones,4,33.41
+375,2024-01-21,20:26:00,Bob White,Vivo,X100 Pro,651.21,2,Cash,Claire Williams,Downtown,1,Charger,3,67.57
+376,2024-02-11,16:14:00,Jane Smith,Vivo,Y200,281.33,1,Card,David Lee,Suburban,3,Screen Protector,1,41.58
+377,2024-09-11,13:48:00,John Doe,OnePlus,OnePlus 11,936.7,3,Card,David Lee,Downtown,2,Charger,3,100.22
+378,2024-04-05,10:58:00,Sarah Black,OnePlus,Nord CE 3 Lite,200.79,2,Card,Alice Smith,Uptown,3,Charger,1,146.05
+379,2024-05-06,09:18:00,Mike Brown,Vivo,X100 Pro,241.99,3,Online,David Lee,Downtown,3,Screen Protector,3,173.05
+380,2024-04-20,20:15:00,Mike Brown,Xiaomi,Redmi Note 13,1127.31,1,Online,Claire Williams,Downtown,3,Charger,2,196.39
+381,2024-01-07,13:04:00,Jane Smith,Oppo,Find X6 Pro,639.8,1,Card,Bob Johnson,Suburban,3,Screen Protector,2,189.97
+382,2024-01-10,15:42:00,Mike Brown,Oppo,Reno 10,675.76,2,Card,Emma Brown,Midtown,1,None,5,80.96
+383,2024-10-18,10:06:00,John Doe,Samsung,Galaxy A14,655.58,2,Card,Claire Williams,Midtown,2,None,5,66.29
+384,2024-01-07,19:23:00,Mike Brown,Oppo,Reno 10,1086.76,3,Online,Emma Brown,Suburban,1,Screen Protector,2,136.46
+385,2024-08-31,09:42:00,Jane Smith,Samsung,Galaxy A14,978.24,2,Card,Claire Williams,Suburban,2,Screen Protector,2,85.0
+386,2024-12-16,12:57:00,Mike Brown,Oppo,A78,851.23,2,Cash,Claire Williams,Midtown,1,None,5,56.39
+387,2024-11-19,15:54:00,Alice Green,Apple,iPhone SE 2024,931.84,2,Card,Bob Johnson,Downtown,3,Charger,1,52.49
+388,2024-06-20,09:06:00,Bob White,Vivo,X100 Pro,798.34,1,Cash,Emma Brown,Uptown,2,Charger,2,175.07
+389,2024-03-21,14:47:00,Alice Green,Vivo,X100 Pro,951.78,2,Cash,Emma Brown,Uptown,1,None,5,73.62
+390,2024-05-22,18:26:00,Mike Brown,Oppo,Find X6 Pro,1092.66,1,Cash,David Lee,Uptown,1,Headphones,5,120.33
+391,2024-04-02,17:34:00,John Doe,Vivo,Y200,693.07,2,Online,David Lee,Suburban,2,Screen Protector,4,108.95
+392,2024-01-17,15:07:00,Mike Brown,OnePlus,Nord CE 3 Lite,1128.69,2,Cash,David Lee,Suburban,1,Charger,3,175.61
+393,2024-08-05,10:19:00,Alice Green,Xiaomi,Mi 13 Ultra,1444.61,3,Card,Claire Williams,Suburban,3,Headphones,4,150.87
+394,2024-09-23,12:44:00,Alice Green,OnePlus,OnePlus Ace,1466.38,1,Online,David Lee,Suburban,1,None,1,51.96
+395,2024-12-18,19:08:00,Sarah Black,Oppo,Reno 10,695.87,3,Cash,David Lee,Uptown,2,Screen Protector,3,184.92
+396,2024-01-08,15:10:00,Alice Green,Vivo,V29 Pro,1263.95,1,Cash,David Lee,Uptown,1,Charger,3,147.12
+397,2024-01-10,14:00:00,Sarah Black,Apple,iPhone 14,622.9,3,Cash,Claire Williams,Midtown,2,Headphones,2,50.51
+398,2024-04-08,13:30:00,Alice Green,Xiaomi,Redmi Note 13,698.19,2,Cash,Alice Smith,Uptown,3,None,2,122.1
+399,2024-01-11,14:50:00,Mike Brown,Samsung,Galaxy Z Fold 5,1217.77,2,Online,Bob Johnson,Uptown,3,Screen Protector,5,11.31
+400,2024-11-19,09:16:00,John Doe,Samsung,Galaxy A14,1337.57,1,Online,David Lee,Suburban,1,Screen Protector,1,183.72
+401,2024-03-06,13:39:00,Mike Brown,OnePlus,OnePlus 11,767.85,3,Cash,Bob Johnson,Suburban,1,Headphones,4,99.32
+402,2024-08-04,09:02:00,Sarah Black,Oppo,A78,851.22,3,Online,Claire Williams,Midtown,2,Screen Protector,1,167.69
+403,2024-02-15,12:02:00,Mike Brown,Apple,iPhone SE 2024,312.01,1,Online,David Lee,Suburban,1,Screen Protector,3,89.73
+404,2024-05-16,12:07:00,Bob White,Xiaomi,Poco X5 Pro,820.51,2,Online,Alice Smith,Uptown,1,Headphones,4,187.17
+405,2024-04-09,12:08:00,Alice Green,Xiaomi,Poco X5 Pro,924.11,2,Card,David Lee,Downtown,2,Charger,1,44.47
+406,2024-02-04,10:09:00,Bob White,Xiaomi,Redmi Note 13,630.91,1,Cash,Bob Johnson,Uptown,1,None,5,196.78
+407,2024-08-12,16:28:00,Bob White,Vivo,X100 Pro,475.76,2,Card,David Lee,Downtown,3,Headphones,2,44.1
+408,2024-08-02,09:58:00,John Doe,Xiaomi,Redmi Note 13,665.65,3,Online,Bob Johnson,Downtown,2,Charger,5,162.32
+409,2024-02-22,12:03:00,Sarah Black,Oppo,Reno 10,1400.42,2,Cash,Alice Smith,Uptown,3,None,4,110.35
+410,2024-12-07,17:16:00,Alice Green,Xiaomi,Redmi Note 13,511.91,2,Card,Alice Smith,Uptown,1,Headphones,5,115.81
+411,2024-07-17,18:24:00,Mike Brown,Xiaomi,Redmi Note 13,1468.33,1,Card,Claire Williams,Suburban,2,Charger,4,140.14
+412,2024-03-19,16:38:00,Bob White,Apple,iPhone 15 Pro,761.49,3,Cash,Claire Williams,Midtown,3,Screen Protector,2,181.99
+413,2024-12-19,11:29:00,Mike Brown,Apple,iPhone 14,372.26,2,Card,Alice Smith,Midtown,1,Headphones,3,2.83
+414,2024-08-19,17:45:00,Jane Smith,OnePlus,OnePlus 11,964.15,2,Card,David Lee,Suburban,2,None,1,193.23
+415,2024-03-23,12:22:00,Bob White,Apple,iPhone 15 Pro,842.37,1,Cash,David Lee,Midtown,1,None,3,10.5
+416,2024-09-14,14:29:00,John Doe,Xiaomi,Mi 13 Ultra,1390.79,3,Cash,Emma Brown,Midtown,3,Screen Protector,2,159.29
+417,2024-03-15,12:56:00,Mike Brown,Apple,iPhone SE 2024,1120.96,3,Online,Alice Smith,Midtown,1,Headphones,2,1.62
+418,2024-10-18,18:09:00,John Doe,Vivo,Y200,754.16,1,Cash,Emma Brown,Suburban,1,None,3,172.97
+419,2024-08-01,20:14:00,John Doe,Vivo,V29 Pro,739.24,3,Card,Alice Smith,Uptown,3,Screen Protector,5,36.38
+420,2024-10-17,10:38:00,John Doe,Apple,iPhone 14,1092.54,2,Online,Emma Brown,Suburban,2,Charger,1,53.78
+421,2024-09-12,11:01:00,Sarah Black,Xiaomi,Poco X5 Pro,306.88,2,Cash,Alice Smith,Uptown,2,None,2,86.46
+422,2024-07-05,11:40:00,Sarah Black,Oppo,Find X6 Pro,867.53,2,Card,Alice Smith,Suburban,1,Charger,2,2.05
+423,2024-03-02,15:26:00,Jane Smith,OnePlus,OnePlus Ace,1083.37,2,Card,David Lee,Uptown,3,Charger,3,9.66
+424,2024-03-15,11:35:00,Bob White,Samsung,Galaxy A14,880.33,1,Card,Alice Smith,Suburban,1,Headphones,5,115.96
+425,2024-10-21,11:54:00,Bob White,Apple,iPhone 15 Pro,307.0,3,Online,Bob Johnson,Midtown,2,Screen Protector,1,69.28
+426,2024-07-11,12:30:00,Alice Green,Samsung,Galaxy A14,1394.17,1,Cash,Claire Williams,Midtown,3,Headphones,1,26.9
+427,2024-12-22,19:48:00,Bob White,Oppo,Reno 10,1142.01,2,Card,Bob Johnson,Downtown,1,None,3,115.69
+428,2024-06-17,17:12:00,Sarah Black,OnePlus,Nord CE 3 Lite,270.17,3,Card,Alice Smith,Downtown,2,Headphones,5,33.96
+429,2024-01-20,14:17:00,Bob White,Vivo,X100 Pro,1286.74,3,Cash,David Lee,Uptown,2,Headphones,3,189.11
+430,2024-08-03,11:55:00,John Doe,Vivo,X100 Pro,491.8,2,Online,Bob Johnson,Suburban,2,Screen Protector,3,139.24
+431,2024-11-24,09:34:00,Mike Brown,OnePlus,OnePlus Ace,1363.37,1,Online,David Lee,Uptown,2,Headphones,4,124.58
+432,2024-06-02,11:47:00,Alice Green,OnePlus,OnePlus Ace,222.14,2,Online,Emma Brown,Midtown,2,Charger,4,55.89
+433,2024-02-11,12:39:00,Alice Green,Xiaomi,Poco X5 Pro,1130.38,2,Cash,Bob Johnson,Midtown,3,Screen Protector,1,154.99
+434,2024-06-27,09:31:00,Bob White,Oppo,Reno 10,1111.29,1,Online,David Lee,Downtown,1,Charger,2,191.13
+435,2024-06-16,17:52:00,Jane Smith,Vivo,V29 Pro,803.6,1,Card,Alice Smith,Midtown,1,None,2,144.7
+436,2024-11-02,15:56:00,Alice Green,Vivo,Y200,1414.25,1,Cash,Bob Johnson,Suburban,3,Screen Protector,1,69.14
+437,2024-10-07,11:30:00,Bob White,OnePlus,OnePlus Ace,997.49,3,Online,Bob Johnson,Uptown,1,Screen Protector,2,186.92
+438,2024-04-06,16:20:00,John Doe,Oppo,Reno 10,293.57,3,Cash,David Lee,Downtown,2,None,3,34.57
+439,2024-01-07,14:09:00,Mike Brown,OnePlus,Nord CE 3 Lite,1199.62,3,Card,David Lee,Suburban,2,Charger,4,119.22
+440,2024-06-28,16:11:00,Mike Brown,Xiaomi,Redmi Note 13,1233.57,2,Online,Claire Williams,Midtown,2,Headphones,1,2.77
+441,2024-04-30,18:37:00,Bob White,Oppo,A78,1213.13,1,Card,Emma Brown,Downtown,2,Headphones,1,144.53
+442,2024-12-29,09:42:00,Mike Brown,Oppo,Find X6 Pro,658.62,1,Cash,Alice Smith,Downtown,2,None,3,81.07
+443,2024-12-23,16:05:00,Jane Smith,Vivo,Y200,666.78,3,Online,Claire Williams,Uptown,2,Headphones,4,117.9
+444,2024-06-27,16:40:00,Jane Smith,Vivo,Y200,1016.27,1,Card,Bob Johnson,Uptown,2,None,5,66.49
+445,2024-10-14,15:31:00,Mike Brown,Apple,iPhone 15 Pro,579.04,1,Card,David Lee,Downtown,2,Screen Protector,4,111.38
+446,2024-01-23,12:21:00,Alice Green,Xiaomi,Mi 13 Ultra,897.05,3,Cash,Bob Johnson,Midtown,2,Headphones,5,92.11
+447,2024-01-09,20:19:00,John Doe,Vivo,V29 Pro,412.58,2,Cash,Claire Williams,Uptown,3,Charger,3,74.06
+448,2024-10-10,11:13:00,Sarah Black,Apple,iPhone 14,1424.02,3,Card,Bob Johnson,Midtown,3,Charger,2,2.99
+449,2024-05-23,15:01:00,Mike Brown,Apple,iPhone 14,261.73,1,Cash,Claire Williams,Midtown,1,Charger,1,82.35
+450,2024-07-20,18:40:00,Mike Brown,Oppo,A78,1435.13,2,Card,Alice Smith,Uptown,3,Charger,1,114.61
+451,2024-09-21,12:41:00,Bob White,Oppo,Find X6 Pro,985.7,1,Cash,Emma Brown,Downtown,3,Charger,4,101.55
+452,2024-08-13,14:03:00,Sarah Black,Vivo,X100 Pro,826.69,2,Card,Alice Smith,Downtown,1,Screen Protector,4,29.0
+453,2024-11-24,15:39:00,Alice Green,Samsung,Galaxy A14,1135.66,3,Cash,David Lee,Midtown,2,None,3,161.84
+454,2024-12-31,13:38:00,Sarah Black,Oppo,A78,754.48,1,Cash,Alice Smith,Uptown,1,Headphones,1,40.12
+455,2024-12-20,12:40:00,Alice Green,Vivo,Y200,1217.25,3,Online,Claire Williams,Midtown,3,Screen Protector,4,88.63
+456,2024-11-01,11:32:00,Alice Green,OnePlus,Nord CE 3 Lite,510.91,3,Cash,Bob Johnson,Midtown,2,Charger,5,124.75
+457,2024-07-18,19:28:00,Alice Green,Samsung,Galaxy S23,1065.34,1,Cash,Bob Johnson,Midtown,3,Screen Protector,1,15.79
+458,2024-10-27,20:12:00,Jane Smith,Xiaomi,Mi 13 Ultra,806.65,2,Online,Alice Smith,Suburban,3,Screen Protector,5,72.24
+459,2024-02-27,13:35:00,John Doe,Samsung,Galaxy S23,386.43,1,Card,Bob Johnson,Midtown,2,None,4,98.52
+460,2024-09-20,17:54:00,Sarah Black,Samsung,Galaxy A14,1414.07,2,Cash,Alice Smith,Uptown,3,Headphones,1,173.01
+461,2024-02-14,16:37:00,Mike Brown,OnePlus,Nord CE 3 Lite,913.51,3,Online,David Lee,Downtown,1,Headphones,1,166.31
+462,2024-06-01,18:55:00,Jane Smith,Apple,iPhone 14,1015.38,1,Cash,David Lee,Uptown,1,Charger,5,100.21
+463,2024-11-05,13:55:00,Bob White,Vivo,X100 Pro,1073.04,2,Online,Emma Brown,Suburban,3,Charger,2,5.95
+464,2024-11-03,10:02:00,John Doe,Oppo,A78,296.97,1,Online,Alice Smith,Suburban,3,Charger,3,179.94
+465,2024-01-28,10:04:00,John Doe,Apple,iPhone SE 2024,549.39,3,Cash,Emma Brown,Downtown,1,Headphones,5,23.41
+466,2024-09-02,15:12:00,Alice Green,Oppo,Find X6 Pro,1066.83,1,Card,David Lee,Uptown,3,None,2,58.42
+467,2024-04-17,14:23:00,John Doe,Apple,iPhone 14,526.84,3,Cash,Bob Johnson,Suburban,3,None,5,163.26
+468,2024-09-17,20:05:00,Jane Smith,Samsung,Galaxy Z Fold 5,1142.16,3,Card,Alice Smith,Midtown,1,None,1,47.85
+469,2024-06-24,13:16:00,Jane Smith,Samsung,Galaxy Z Fold 5,908.92,3,Card,Alice Smith,Uptown,2,Headphones,1,119.63
+470,2024-03-26,19:06:00,Jane Smith,Samsung,Galaxy Z Fold 5,240.43,3,Online,Claire Williams,Suburban,1,Charger,1,29.1
+471,2024-11-26,11:43:00,John Doe,Apple,iPhone 14,1351.31,3,Cash,Emma Brown,Midtown,1,Headphones,2,102.5
+472,2024-05-10,17:14:00,Mike Brown,Samsung,Galaxy A14,1175.29,2,Cash,Emma Brown,Uptown,3,Charger,3,38.91
+473,2024-07-28,10:11:00,Sarah Black,Oppo,Reno 10,440.48,1,Cash,Emma Brown,Midtown,1,Headphones,3,44.59
+474,2024-10-26,18:25:00,John Doe,Oppo,Find X6 Pro,595.82,1,Cash,Claire Williams,Uptown,3,Headphones,1,50.85
+475,2024-04-10,19:41:00,Alice Green,Vivo,V29 Pro,829.78,3,Card,Alice Smith,Uptown,3,None,3,108.92
+476,2024-06-24,11:09:00,Sarah Black,OnePlus,OnePlus 11,633.33,2,Card,David Lee,Uptown,2,None,3,60.01
+477,2024-01-19,16:16:00,Mike Brown,Samsung,Galaxy Z Fold 5,1065.25,3,Card,Claire Williams,Uptown,1,Screen Protector,2,86.55
+478,2024-10-27,16:54:00,Bob White,Oppo,Reno 10,1190.87,2,Card,David Lee,Midtown,2,Charger,3,129.93
+479,2024-12-16,15:16:00,Bob White,Oppo,A78,1196.97,3,Online,Bob Johnson,Downtown,1,Screen Protector,1,151.13
+480,2024-05-08,18:43:00,Bob White,OnePlus,Nord CE 3 Lite,1058.81,1,Online,David Lee,Uptown,3,Headphones,5,26.98
+481,2024-03-14,09:31:00,Mike Brown,Apple,iPhone SE 2024,399.57,2,Cash,Bob Johnson,Midtown,3,Headphones,1,183.13
+482,2024-10-07,09:01:00,John Doe,OnePlus,OnePlus 11,1336.09,3,Card,Emma Brown,Midtown,2,Charger,3,2.8
+483,2024-07-28,16:40:00,John Doe,Vivo,X100 Pro,1240.47,2,Online,Emma Brown,Downtown,1,Headphones,4,26.64
+484,2024-08-11,11:18:00,Alice Green,Samsung,Galaxy A14,848.38,1,Online,Emma Brown,Suburban,3,None,1,93.55
+485,2024-03-16,16:40:00,Sarah Black,Xiaomi,Poco X5 Pro,998.07,1,Cash,David Lee,Uptown,2,None,1,52.31
+486,2024-06-16,11:21:00,Sarah Black,Apple,iPhone 15 Pro,788.23,1,Online,Alice Smith,Downtown,1,Charger,2,59.42
+487,2024-07-20,19:13:00,Bob White,Vivo,X100 Pro,748.22,2,Online,David Lee,Downtown,3,Screen Protector,4,146.08
+488,2024-04-06,15:45:00,Mike Brown,Samsung,Galaxy A14,1013.28,2,Card,Bob Johnson,Suburban,2,Charger,1,74.37
+489,2024-10-31,20:44:00,Jane Smith,Samsung,Galaxy Z Fold 5,822.57,1,Cash,Emma Brown,Midtown,3,None,3,171.36
+490,2024-09-18,09:58:00,Sarah Black,Xiaomi,Poco X5 Pro,830.77,3,Online,David Lee,Suburban,2,Charger,3,109.46
+491,2024-07-06,10:52:00,Alice Green,Vivo,Y200,961.51,3,Cash,David Lee,Uptown,2,None,1,8.97
+492,2024-02-16,20:29:00,Mike Brown,Vivo,V29 Pro,1467.25,3,Card,Bob Johnson,Uptown,3,Charger,2,170.75
+493,2024-05-18,12:49:00,Mike Brown,Samsung,Galaxy A14,1219.76,3,Cash,Claire Williams,Suburban,3,Charger,3,124.93
+494,2024-11-18,13:14:00,Bob White,Oppo,A78,1097.44,2,Cash,David Lee,Suburban,1,Headphones,3,46.31
+495,2024-11-25,10:26:00,Jane Smith,Apple,iPhone 15 Pro,1378.71,1,Card,Claire Williams,Suburban,1,Charger,3,194.94
+496,2024-04-30,09:10:00,Mike Brown,Vivo,X100 Pro,417.19,1,Online,Emma Brown,Downtown,2,None,2,98.86
+497,2024-05-07,20:37:00,John Doe,Apple,iPhone 14,280.76,2,Online,Alice Smith,Uptown,1,Screen Protector,5,68.29
+498,2024-07-02,20:51:00,Jane Smith,Apple,iPhone 14,954.54,2,Cash,David Lee,Suburban,3,Screen Protector,5,27.61
+499,2024-05-02,14:27:00,John Doe,OnePlus,OnePlus 11,890.17,3,Online,Emma Brown,Uptown,1,None,3,66.37
+500,2024-06-26,20:47:00,Bob White,Samsung,Galaxy A14,289.8,3,Card,Claire Williams,Downtown,1,Charger,3,9.06
+501,2024-11-19,13:46:00,Bob White,Oppo,A78,1222.97,2,Cash,Emma Brown,Uptown,3,Screen Protector,5,74.5
+502,2024-01-13,15:16:00,Sarah Black,OnePlus,OnePlus 11,737.25,1,Cash,David Lee,Uptown,2,None,2,88.62
+503,2024-05-08,12:57:00,Jane Smith,Xiaomi,Redmi Note 13,1219.17,3,Cash,Claire Williams,Downtown,3,Headphones,4,46.22
+504,2024-01-21,09:20:00,John Doe,OnePlus,OnePlus Ace,1203.48,2,Card,Alice Smith,Uptown,1,Charger,1,198.8
+505,2024-09-03,20:38:00,John Doe,Samsung,Galaxy S23,504.64,1,Card,David Lee,Uptown,2,None,2,13.49
+506,2024-11-29,12:44:00,Jane Smith,Oppo,A78,1071.7,1,Cash,Bob Johnson,Suburban,3,Charger,5,61.28
+507,2024-07-06,15:41:00,Sarah Black,Apple,iPhone SE 2024,1130.01,1,Card,Alice Smith,Midtown,2,None,3,115.43
+508,2024-09-10,15:45:00,Sarah Black,Samsung,Galaxy Z Fold 5,1170.78,2,Online,Alice Smith,Downtown,1,None,4,174.79
+509,2024-06-08,12:35:00,Mike Brown,Oppo,Reno 10,819.79,2,Card,Emma Brown,Midtown,3,Charger,4,68.34
+510,2024-10-23,19:54:00,Bob White,Oppo,Reno 10,1028.34,1,Cash,Alice Smith,Midtown,3,Charger,5,176.98
+511,2024-02-18,13:01:00,Alice Green,Vivo,X100 Pro,997.23,3,Card,Bob Johnson,Suburban,1,None,2,73.11
+512,2024-11-14,20:42:00,Bob White,Apple,iPhone 14,935.15,3,Online,David Lee,Midtown,2,Headphones,2,2.83
+513,2024-04-13,12:02:00,Sarah Black,Xiaomi,Poco X5 Pro,1318.88,2,Cash,Bob Johnson,Downtown,3,Headphones,3,145.56
+514,2024-12-10,11:14:00,John Doe,Vivo,V29 Pro,353.76,3,Card,Bob Johnson,Downtown,3,Charger,1,151.55
+515,2024-01-11,10:07:00,John Doe,Xiaomi,Poco X5 Pro,467.02,2,Card,Emma Brown,Downtown,1,Headphones,4,75.92
+516,2024-01-24,17:41:00,Jane Smith,Oppo,A78,635.43,2,Card,David Lee,Suburban,1,Screen Protector,3,144.16
+517,2024-05-14,11:44:00,Bob White,OnePlus,OnePlus 11,843.13,1,Cash,Bob Johnson,Downtown,3,Headphones,3,48.83
+518,2024-06-20,11:11:00,Mike Brown,OnePlus,OnePlus 11,1271.68,1,Online,Alice Smith,Downtown,3,None,4,170.97
+519,2024-05-20,18:38:00,Alice Green,Vivo,X100 Pro,702.26,2,Cash,Claire Williams,Uptown,1,Headphones,3,191.0
+520,2024-01-24,19:56:00,John Doe,Samsung,Galaxy A14,1416.98,1,Online,David Lee,Uptown,2,None,2,4.04
+521,2024-03-14,19:36:00,Mike Brown,Vivo,Y200,958.96,2,Cash,David Lee,Downtown,2,Screen Protector,2,23.08
+522,2024-08-22,09:02:00,Sarah Black,Samsung,Galaxy A14,372.39,3,Cash,Alice Smith,Downtown,3,Charger,4,139.06
+523,2024-10-25,11:08:00,Mike Brown,Vivo,X100 Pro,1097.66,3,Card,Bob Johnson,Suburban,3,Charger,3,57.89
+524,2024-06-15,17:49:00,John Doe,Oppo,Reno 10,401.89,3,Cash,David Lee,Downtown,3,Headphones,4,19.96
+525,2024-11-29,15:58:00,John Doe,Vivo,X100 Pro,1390.16,1,Cash,Bob Johnson,Uptown,3,Charger,5,12.6
+526,2024-12-30,09:11:00,Alice Green,Oppo,Find X6 Pro,262.01,1,Cash,Claire Williams,Midtown,3,Screen Protector,5,15.95
+527,2024-09-04,18:40:00,Bob White,Xiaomi,Poco X5 Pro,528.36,2,Card,Alice Smith,Downtown,2,Screen Protector,4,104.6
+528,2024-04-06,12:42:00,John Doe,Xiaomi,Redmi Note 13,491.56,2,Cash,Bob Johnson,Uptown,3,Screen Protector,2,195.29
+529,2024-07-30,17:41:00,John Doe,Samsung,Galaxy Z Fold 5,374.5,2,Card,Emma Brown,Suburban,3,Headphones,2,186.24
+530,2024-12-25,12:48:00,Alice Green,Xiaomi,Mi 13 Ultra,525.01,1,Card,Alice Smith,Suburban,3,Headphones,4,118.42
+531,2024-03-31,17:20:00,Alice Green,Xiaomi,Poco X5 Pro,645.08,2,Online,Claire Williams,Downtown,1,None,4,68.09
+532,2024-09-05,20:44:00,Alice Green,OnePlus,OnePlus 11,1302.8,3,Card,David Lee,Downtown,2,Screen Protector,2,64.43
+533,2024-06-30,13:47:00,Sarah Black,OnePlus,OnePlus Ace,389.31,2,Cash,Bob Johnson,Suburban,2,Charger,3,146.19
+534,2024-10-29,10:04:00,Sarah Black,Vivo,V29 Pro,394.57,2,Cash,Bob Johnson,Downtown,3,Headphones,2,72.54
+535,2024-03-08,18:53:00,Bob White,Oppo,Reno 10,1011.82,3,Cash,Claire Williams,Suburban,2,Headphones,3,184.38
+536,2024-03-21,12:20:00,Sarah Black,Vivo,Y200,944.28,2,Cash,Alice Smith,Downtown,1,Screen Protector,3,96.31
+537,2024-02-21,13:25:00,Bob White,Samsung,Galaxy A14,722.51,1,Online,Alice Smith,Suburban,3,Charger,4,161.61
+538,2024-11-07,12:01:00,Sarah Black,Vivo,Y200,1196.55,2,Card,Emma Brown,Uptown,3,Headphones,4,121.09
+539,2024-03-16,17:07:00,John Doe,OnePlus,OnePlus Ace,529.36,2,Cash,Bob Johnson,Downtown,3,Headphones,2,41.73
+540,2024-07-15,19:03:00,Bob White,OnePlus,OnePlus Ace,305.4,2,Card,Emma Brown,Suburban,1,Headphones,1,116.26
+541,2024-04-17,10:53:00,Jane Smith,Apple,iPhone SE 2024,1078.55,1,Card,Alice Smith,Midtown,3,Screen Protector,2,22.28
+542,2024-02-21,09:59:00,Jane Smith,Oppo,A78,1148.3,3,Cash,Alice Smith,Midtown,1,Screen Protector,3,55.8
+543,2024-09-18,10:12:00,Jane Smith,Vivo,Y200,1320.35,1,Online,Alice Smith,Uptown,1,None,3,155.58
+544,2024-06-29,09:11:00,Mike Brown,Vivo,Y200,678.86,2,Card,Claire Williams,Downtown,3,Headphones,2,159.44
+545,2024-10-24,20:25:00,Sarah Black,Oppo,Reno 10,737.81,2,Cash,Claire Williams,Downtown,3,Headphones,4,26.82
+546,2024-08-24,12:01:00,Sarah Black,Apple,iPhone 14,884.23,2,Card,Alice Smith,Downtown,2,Charger,5,36.2
+547,2024-08-29,20:12:00,Mike Brown,Vivo,Y200,986.19,2,Online,Claire Williams,Suburban,1,Headphones,3,106.27
+548,2024-11-08,10:57:00,Alice Green,OnePlus,OnePlus Ace,1372.09,3,Card,Bob Johnson,Uptown,1,None,4,70.33
+549,2024-06-28,19:11:00,John Doe,Samsung,Galaxy Z Fold 5,1226.27,2,Online,David Lee,Uptown,2,Screen Protector,3,140.28
+550,2024-06-04,17:57:00,John Doe,Oppo,A78,782.1,3,Online,Claire Williams,Midtown,2,Headphones,1,97.71
+551,2024-10-15,12:41:00,John Doe,Apple,iPhone 15 Pro,790.93,1,Cash,Emma Brown,Midtown,3,Screen Protector,1,26.79
+552,2024-06-23,13:39:00,Mike Brown,Xiaomi,Poco X5 Pro,1084.21,3,Card,Emma Brown,Suburban,1,Charger,4,35.99
+553,2024-02-27,16:43:00,Sarah Black,Xiaomi,Redmi Note 13,516.66,3,Online,Bob Johnson,Suburban,1,None,4,3.54
+554,2024-12-19,14:51:00,John Doe,Apple,iPhone 15 Pro,326.49,1,Online,Alice Smith,Suburban,3,Charger,3,5.87
+555,2024-12-13,17:46:00,Bob White,Oppo,A78,741.13,3,Card,Emma Brown,Suburban,2,None,3,52.57
+556,2024-07-26,09:15:00,Alice Green,Vivo,Y200,1108.64,2,Card,Bob Johnson,Uptown,3,Screen Protector,5,159.52
+557,2024-06-28,13:19:00,John Doe,Xiaomi,Redmi Note 13,1277.53,3,Cash,David Lee,Downtown,2,Screen Protector,3,60.75
+558,2024-05-25,12:35:00,Sarah Black,Apple,iPhone 15 Pro,1285.92,1,Cash,David Lee,Downtown,1,Screen Protector,3,189.75
+559,2024-02-27,20:21:00,Bob White,Apple,iPhone 15 Pro,372.55,3,Card,Claire Williams,Suburban,3,Headphones,5,84.24
+560,2024-02-10,13:44:00,Bob White,Samsung,Galaxy A14,950.47,3,Card,David Lee,Downtown,2,Headphones,2,48.59
+561,2024-10-21,12:03:00,Jane Smith,Vivo,X100 Pro,1015.51,2,Card,Emma Brown,Uptown,1,Charger,4,153.32
+562,2024-11-09,12:25:00,Mike Brown,Xiaomi,Poco X5 Pro,1178.75,3,Online,Bob Johnson,Suburban,2,Charger,3,82.87
+563,2024-05-18,18:58:00,John Doe,Xiaomi,Mi 13 Ultra,244.96,1,Cash,Emma Brown,Suburban,1,None,5,50.67
+564,2024-06-13,16:11:00,Bob White,Oppo,Find X6 Pro,981.71,1,Cash,Bob Johnson,Downtown,1,None,5,61.69
+565,2024-07-02,15:11:00,Sarah Black,Samsung,Galaxy S23,384.76,3,Online,Alice Smith,Midtown,1,Headphones,1,180.51
+566,2024-05-08,17:06:00,Jane Smith,Xiaomi,Mi 13 Ultra,1262.62,2,Card,Bob Johnson,Downtown,1,None,2,38.11
+567,2024-06-03,17:27:00,Mike Brown,Xiaomi,Mi 13 Ultra,770.86,2,Cash,Alice Smith,Midtown,2,Headphones,5,45.54
+568,2024-06-19,15:27:00,Jane Smith,OnePlus,Nord CE 3 Lite,725.53,3,Card,David Lee,Midtown,2,Charger,1,100.75
+569,2024-10-17,20:59:00,Jane Smith,Xiaomi,Mi 13 Ultra,501.1,1,Online,David Lee,Midtown,3,Headphones,4,187.03
+570,2024-02-01,10:09:00,Alice Green,Oppo,Reno 10,1112.7,1,Card,Alice Smith,Downtown,3,Charger,1,176.12
+571,2024-07-05,18:48:00,Alice Green,Xiaomi,Poco X5 Pro,833.56,1,Cash,Bob Johnson,Suburban,2,Screen Protector,5,44.91
+572,2024-11-04,13:37:00,Jane Smith,Xiaomi,Poco X5 Pro,430.37,2,Cash,Alice Smith,Midtown,2,None,2,159.42
+573,2024-05-20,18:33:00,Alice Green,Samsung,Galaxy Z Fold 5,1483.95,3,Card,Alice Smith,Suburban,1,Screen Protector,1,153.94
+574,2024-08-03,14:18:00,Jane Smith,Xiaomi,Poco X5 Pro,1331.93,1,Card,Bob Johnson,Suburban,2,Headphones,3,26.32
+575,2024-08-12,12:57:00,Alice Green,Apple,iPhone SE 2024,662.96,1,Card,David Lee,Suburban,3,None,4,136.87
+576,2024-09-02,15:08:00,Sarah Black,OnePlus,OnePlus 11,213.6,2,Cash,Emma Brown,Suburban,2,Charger,4,81.72
+577,2024-09-15,09:50:00,Jane Smith,OnePlus,OnePlus 11,410.29,3,Cash,David Lee,Midtown,2,Charger,2,41.64
+578,2024-10-19,20:32:00,Mike Brown,Vivo,Y200,688.06,1,Card,Bob Johnson,Midtown,3,None,4,59.76
+579,2024-04-21,17:26:00,Mike Brown,Samsung,Galaxy Z Fold 5,1436.35,1,Cash,Claire Williams,Uptown,1,None,3,177.19
+580,2024-01-01,12:09:00,Alice Green,Xiaomi,Mi 13 Ultra,498.98,1,Card,Bob Johnson,Suburban,1,Charger,1,40.61
+581,2024-10-27,17:03:00,Bob White,Xiaomi,Mi 13 Ultra,423.9,1,Cash,Claire Williams,Suburban,2,Headphones,3,35.93
+582,2024-09-04,19:39:00,John Doe,Xiaomi,Redmi Note 13,661.55,3,Cash,Bob Johnson,Midtown,2,Screen Protector,5,192.41
+583,2024-07-18,20:12:00,Alice Green,Vivo,Y200,492.54,1,Cash,Claire Williams,Midtown,2,None,2,158.77
+584,2024-05-01,18:38:00,John Doe,Samsung,Galaxy S23,1383.89,1,Online,David Lee,Midtown,2,None,1,137.39
+585,2024-08-31,18:39:00,Alice Green,OnePlus,OnePlus 11,438.4,3,Online,David Lee,Downtown,3,Screen Protector,5,113.05
+586,2024-11-01,18:43:00,Alice Green,Xiaomi,Redmi Note 13,1495.12,2,Online,Bob Johnson,Suburban,3,Charger,2,133.34
+587,2024-10-12,18:17:00,Jane Smith,Apple,iPhone 14,596.92,3,Cash,Alice Smith,Downtown,1,None,2,71.84
+588,2024-11-08,20:22:00,Alice Green,Oppo,A78,381.34,2,Card,Claire Williams,Uptown,1,Headphones,5,125.11
+589,2024-12-11,12:47:00,Mike Brown,OnePlus,OnePlus Ace,974.87,2,Cash,Bob Johnson,Suburban,1,Screen Protector,3,129.71
+590,2024-09-08,18:09:00,Jane Smith,Oppo,Reno 10,955.1,2,Cash,Bob Johnson,Uptown,2,None,3,92.87
+591,2024-03-08,19:42:00,Alice Green,Apple,iPhone 15 Pro,390.09,2,Online,Emma Brown,Uptown,2,Screen Protector,3,141.84
+592,2024-11-13,11:47:00,Mike Brown,Vivo,X100 Pro,368.34,1,Card,Alice Smith,Midtown,3,Headphones,3,115.2
+593,2024-04-23,09:21:00,Jane Smith,Vivo,Y200,496.18,1,Online,David Lee,Uptown,3,None,5,163.18
+594,2024-07-05,13:21:00,Alice Green,Samsung,Galaxy A14,849.59,3,Cash,Claire Williams,Midtown,1,Screen Protector,2,66.37
+595,2024-12-26,10:39:00,John Doe,OnePlus,OnePlus 11,370.92,3,Online,Claire Williams,Downtown,2,None,5,182.91
+596,2024-02-29,11:33:00,Sarah Black,Samsung,Galaxy S23,1135.01,1,Online,Emma Brown,Uptown,3,Charger,1,116.03
+597,2024-09-11,12:22:00,Jane Smith,Apple,iPhone SE 2024,1082.15,1,Card,Emma Brown,Midtown,2,Charger,2,118.48
+598,2024-06-12,20:15:00,Mike Brown,Vivo,V29 Pro,1448.04,1,Card,David Lee,Midtown,2,Charger,5,41.91
+599,2024-07-18,09:11:00,John Doe,Vivo,X100 Pro,853.49,2,Cash,David Lee,Uptown,3,None,4,192.94
+600,2024-09-21,18:35:00,Sarah Black,Samsung,Galaxy Z Fold 5,1043.98,1,Online,Bob Johnson,Uptown,3,Headphones,4,157.35
+601,2024-02-19,19:48:00,Bob White,Apple,iPhone SE 2024,491.42,1,Online,Bob Johnson,Downtown,3,None,2,43.06
+602,2024-01-31,20:31:00,Mike Brown,Vivo,V29 Pro,369.66,3,Cash,Emma Brown,Suburban,3,Headphones,2,90.34
+603,2024-06-22,18:18:00,Alice Green,Samsung,Galaxy S23,1165.38,3,Card,Bob Johnson,Suburban,3,None,2,73.64
+604,2024-02-10,20:34:00,Jane Smith,Vivo,V29 Pro,1466.94,3,Online,David Lee,Suburban,1,Charger,4,119.26
+605,2024-03-10,10:17:00,Bob White,OnePlus,Nord CE 3 Lite,967.68,2,Card,David Lee,Uptown,1,Screen Protector,4,147.48
+606,2024-11-28,09:42:00,Bob White,Samsung,Galaxy A14,1127.86,1,Card,David Lee,Midtown,2,Screen Protector,5,31.09
+607,2024-12-20,13:46:00,John Doe,Oppo,Reno 10,422.79,1,Card,Alice Smith,Uptown,3,None,5,109.58
+608,2024-07-23,17:48:00,John Doe,Oppo,Reno 10,537.64,3,Cash,Emma Brown,Midtown,2,Screen Protector,3,58.43
+609,2024-10-28,19:47:00,John Doe,OnePlus,Nord CE 3 Lite,535.61,1,Online,Claire Williams,Uptown,2,None,1,140.19
+610,2024-05-21,20:24:00,Bob White,Samsung,Galaxy A14,856.05,3,Card,Alice Smith,Downtown,1,Headphones,1,129.09
+611,2024-12-15,09:22:00,Sarah Black,Vivo,Y200,824.46,1,Card,Bob Johnson,Midtown,1,None,2,66.82
+612,2024-06-06,17:33:00,Bob White,Vivo,X100 Pro,521.97,3,Card,Claire Williams,Midtown,1,Screen Protector,4,98.9
+613,2024-04-26,13:55:00,Bob White,Samsung,Galaxy Z Fold 5,923.09,1,Cash,Emma Brown,Midtown,2,Headphones,4,172.67
+614,2024-11-23,14:51:00,Jane Smith,Apple,iPhone 15 Pro,431.81,1,Cash,David Lee,Uptown,1,None,5,38.66
+615,2024-04-20,20:28:00,Jane Smith,Xiaomi,Redmi Note 13,814.74,3,Cash,David Lee,Uptown,3,Headphones,2,102.05
+616,2024-07-17,12:42:00,Alice Green,Oppo,Find X6 Pro,388.43,2,Online,Alice Smith,Uptown,1,Charger,2,186.78
+617,2024-07-07,14:31:00,John Doe,Samsung,Galaxy A14,570.05,3,Card,Emma Brown,Uptown,1,None,2,122.17
+618,2024-11-12,15:17:00,Bob White,Oppo,Reno 10,629.51,2,Cash,Alice Smith,Uptown,3,Charger,5,63.01
+619,2024-03-27,12:48:00,John Doe,Apple,iPhone 14,408.69,1,Cash,David Lee,Downtown,2,Screen Protector,4,159.49
+620,2024-03-11,20:16:00,Mike Brown,Xiaomi,Mi 13 Ultra,771.34,2,Online,Alice Smith,Downtown,3,Headphones,5,55.78
+621,2024-02-13,20:18:00,Alice Green,Apple,iPhone SE 2024,473.33,2,Card,Claire Williams,Uptown,3,Screen Protector,3,43.96
+622,2024-07-04,20:34:00,John Doe,OnePlus,Nord CE 3 Lite,1341.07,2,Card,David Lee,Uptown,3,Screen Protector,1,190.69
+623,2024-12-05,10:15:00,Jane Smith,Samsung,Galaxy Z Fold 5,937.26,1,Online,Claire Williams,Uptown,3,Headphones,5,179.37
+624,2024-05-28,18:39:00,Jane Smith,OnePlus,OnePlus 11,250.52,1,Online,Alice Smith,Midtown,1,Screen Protector,4,21.45
+625,2024-07-09,12:05:00,Bob White,OnePlus,OnePlus 11,848.3,2,Card,Claire Williams,Suburban,3,Screen Protector,3,77.74
+626,2024-09-27,09:51:00,Mike Brown,Oppo,A78,1466.46,1,Online,Alice Smith,Suburban,2,Screen Protector,5,193.98
+627,2024-02-03,12:44:00,John Doe,Xiaomi,Mi 13 Ultra,598.43,2,Online,David Lee,Midtown,3,Headphones,1,13.16
+628,2024-09-14,11:10:00,Jane Smith,Samsung,Galaxy A14,207.96,1,Card,David Lee,Suburban,3,None,2,188.84
+629,2024-04-09,18:22:00,John Doe,Apple,iPhone 14,1326.55,1,Card,Bob Johnson,Uptown,1,Screen Protector,3,58.44
+630,2024-10-07,20:41:00,Bob White,Oppo,A78,454.5,2,Online,Claire Williams,Uptown,2,None,2,60.73
+631,2024-05-29,17:09:00,Jane Smith,OnePlus,Nord CE 3 Lite,828.07,1,Online,Alice Smith,Suburban,1,Charger,2,181.03
+632,2024-05-27,11:40:00,Mike Brown,OnePlus,OnePlus Ace,1488.79,1,Cash,David Lee,Midtown,1,Headphones,5,148.47
+633,2024-11-21,10:46:00,Jane Smith,Xiaomi,Poco X5 Pro,228.81,1,Online,Claire Williams,Midtown,3,Screen Protector,2,53.92
+634,2024-07-24,17:59:00,Sarah Black,Vivo,Y200,1458.28,3,Online,Bob Johnson,Suburban,1,Headphones,5,73.9
+635,2024-01-30,11:09:00,Sarah Black,OnePlus,OnePlus Ace,945.58,1,Online,Bob Johnson,Suburban,1,Screen Protector,5,18.02
+636,2024-10-22,19:45:00,John Doe,Apple,iPhone SE 2024,955.25,2,Online,Alice Smith,Downtown,3,None,5,163.51
+637,2024-09-29,15:28:00,Alice Green,Oppo,Find X6 Pro,745.36,2,Online,Emma Brown,Midtown,1,Screen Protector,1,177.52
+638,2024-03-24,13:32:00,Alice Green,Vivo,X100 Pro,624.06,3,Cash,Claire Williams,Suburban,1,None,5,192.68
+639,2024-10-16,16:38:00,Alice Green,OnePlus,OnePlus 11,491.69,3,Cash,Alice Smith,Midtown,2,None,4,81.74
+640,2024-10-05,12:58:00,Jane Smith,Oppo,A78,1279.72,2,Card,Alice Smith,Uptown,2,Screen Protector,3,137.84
+641,2024-08-02,17:09:00,Bob White,Oppo,A78,1111.31,2,Cash,Emma Brown,Midtown,1,None,4,194.14
+642,2024-08-22,14:49:00,Alice Green,Vivo,Y200,621.47,1,Online,Claire Williams,Suburban,1,Screen Protector,4,177.76
+643,2024-08-12,09:09:00,Sarah Black,Vivo,X100 Pro,1253.19,2,Cash,David Lee,Downtown,2,Headphones,5,78.67
+644,2024-05-05,15:24:00,Bob White,Samsung,Galaxy S23,584.62,1,Cash,Claire Williams,Suburban,3,None,4,173.8
+645,2024-08-09,11:45:00,Mike Brown,Samsung,Galaxy S23,541.17,1,Online,David Lee,Midtown,2,None,4,152.09
+646,2024-11-07,16:20:00,Jane Smith,OnePlus,OnePlus 11,617.35,2,Cash,Emma Brown,Midtown,3,Headphones,2,134.75
+647,2024-03-05,19:18:00,Alice Green,Samsung,Galaxy S23,332.48,1,Cash,David Lee,Uptown,3,Screen Protector,3,47.66
+648,2024-06-23,20:51:00,Sarah Black,Samsung,Galaxy Z Fold 5,1471.1,3,Online,Claire Williams,Suburban,1,None,2,199.99
+649,2024-10-31,13:06:00,Bob White,Apple,iPhone 14,861.66,3,Card,Bob Johnson,Downtown,1,Charger,1,56.62
+650,2024-01-02,15:33:00,Jane Smith,Apple,iPhone 15 Pro,439.95,2,Online,Claire Williams,Downtown,3,Screen Protector,2,53.64
+651,2024-05-21,19:26:00,Jane Smith,Apple,iPhone 14,668.66,1,Cash,Bob Johnson,Uptown,3,Headphones,1,182.64
+652,2024-05-12,16:58:00,John Doe,Apple,iPhone 15 Pro,1151.78,3,Cash,Bob Johnson,Downtown,3,Headphones,3,117.43
+653,2024-11-13,10:02:00,Alice Green,OnePlus,Nord CE 3 Lite,509.74,2,Card,Claire Williams,Suburban,2,Screen Protector,3,83.18
+654,2024-11-16,10:56:00,Sarah Black,OnePlus,Nord CE 3 Lite,340.07,1,Cash,Claire Williams,Suburban,3,Screen Protector,5,79.0
+655,2024-08-09,11:34:00,Bob White,Xiaomi,Mi 13 Ultra,1227.29,3,Cash,Claire Williams,Downtown,1,None,3,133.02
+656,2024-04-17,12:31:00,John Doe,Xiaomi,Poco X5 Pro,754.53,2,Online,Claire Williams,Uptown,1,Headphones,5,124.87
+657,2024-10-22,13:21:00,Jane Smith,Apple,iPhone SE 2024,797.93,1,Cash,Bob Johnson,Downtown,3,Screen Protector,2,44.3
+658,2024-04-01,15:48:00,John Doe,Xiaomi,Redmi Note 13,1084.78,2,Card,Emma Brown,Midtown,1,None,5,108.19
+659,2024-03-21,10:41:00,Jane Smith,OnePlus,OnePlus Ace,777.01,2,Cash,David Lee,Suburban,3,Headphones,2,195.12
+660,2024-12-03,16:54:00,Alice Green,Xiaomi,Redmi Note 13,649.54,1,Online,Emma Brown,Downtown,3,None,4,185.29
+661,2024-11-22,16:14:00,Sarah Black,Xiaomi,Redmi Note 13,243.07,1,Cash,David Lee,Uptown,1,Charger,1,107.54
+662,2024-08-23,11:55:00,Mike Brown,Vivo,X100 Pro,1123.37,3,Card,Emma Brown,Suburban,3,None,2,137.37
+663,2024-08-18,15:59:00,John Doe,Vivo,Y200,814.41,3,Cash,David Lee,Uptown,1,Charger,4,194.28
+664,2024-10-22,19:14:00,Alice Green,Apple,iPhone SE 2024,247.58,1,Cash,Claire Williams,Uptown,2,Charger,3,188.29
+665,2024-08-13,16:18:00,Sarah Black,Oppo,Reno 10,371.3,3,Online,Bob Johnson,Suburban,1,Screen Protector,1,126.57
+666,2024-09-04,13:05:00,Alice Green,Apple,iPhone SE 2024,242.11,2,Card,Bob Johnson,Midtown,3,Screen Protector,3,32.52
+667,2024-01-15,18:26:00,Alice Green,Vivo,X100 Pro,889.11,1,Card,Emma Brown,Downtown,2,Screen Protector,5,29.61
+668,2024-03-01,17:11:00,Mike Brown,Oppo,Reno 10,1154.63,2,Online,Claire Williams,Downtown,2,Screen Protector,2,39.64
+669,2024-02-08,13:56:00,Jane Smith,Oppo,Find X6 Pro,1313.04,2,Card,Emma Brown,Suburban,2,Charger,1,162.77
+670,2024-02-24,11:22:00,Bob White,Vivo,Y200,244.93,2,Cash,Claire Williams,Suburban,2,Charger,3,54.6
+671,2024-11-03,13:48:00,Bob White,Vivo,V29 Pro,1115.11,2,Online,Claire Williams,Midtown,3,Headphones,4,30.34
+672,2024-04-12,19:22:00,Mike Brown,OnePlus,OnePlus 11,297.66,2,Online,Claire Williams,Downtown,1,None,4,112.01
+673,2024-05-25,15:30:00,Bob White,Oppo,Reno 10,1253.43,3,Card,Emma Brown,Suburban,1,None,4,96.65
+674,2024-12-29,19:54:00,John Doe,Oppo,A78,1278.48,3,Card,Emma Brown,Midtown,3,Charger,4,37.33
+675,2024-08-25,14:49:00,Mike Brown,Samsung,Galaxy A14,1214.75,3,Card,Claire Williams,Downtown,3,None,5,93.78
+676,2024-01-25,12:24:00,Sarah Black,OnePlus,OnePlus 11,978.39,2,Card,Alice Smith,Uptown,2,None,3,100.4
+677,2024-10-27,15:40:00,Alice Green,Xiaomi,Poco X5 Pro,756.67,2,Cash,Claire Williams,Downtown,1,Charger,2,74.95
+678,2024-07-02,10:55:00,Bob White,Samsung,Galaxy Z Fold 5,1425.92,1,Online,Claire Williams,Suburban,2,Charger,5,25.7
+679,2024-10-13,14:52:00,Sarah Black,Apple,iPhone 14,1401.11,3,Cash,David Lee,Suburban,2,Headphones,5,170.97
+680,2024-12-07,10:09:00,Sarah Black,OnePlus,OnePlus Ace,1470.57,2,Online,Alice Smith,Suburban,3,Charger,2,22.56
+681,2024-03-21,14:14:00,Alice Green,OnePlus,Nord CE 3 Lite,1381.81,3,Online,Emma Brown,Uptown,1,Headphones,5,70.25
+682,2024-06-09,11:58:00,Sarah Black,OnePlus,OnePlus 11,470.19,1,Cash,Bob Johnson,Midtown,1,None,5,172.33
+683,2024-12-30,14:16:00,Mike Brown,Apple,iPhone 14,1321.87,1,Card,Claire Williams,Suburban,1,Screen Protector,1,138.82
+684,2024-12-03,12:03:00,Alice Green,Vivo,V29 Pro,571.44,1,Online,Emma Brown,Downtown,3,Screen Protector,1,54.66
+685,2024-12-15,18:54:00,Sarah Black,Apple,iPhone 15 Pro,286.24,3,Cash,Emma Brown,Downtown,2,None,5,194.3
+686,2024-12-06,20:42:00,Mike Brown,OnePlus,OnePlus Ace,772.04,2,Card,Emma Brown,Uptown,2,None,5,139.45
+687,2024-05-12,14:36:00,Jane Smith,OnePlus,Nord CE 3 Lite,1469.5,3,Card,Emma Brown,Downtown,1,Charger,4,199.49
+688,2024-03-02,13:44:00,Bob White,Vivo,V29 Pro,1009.69,1,Online,David Lee,Uptown,1,None,3,54.38
+689,2024-01-13,13:05:00,John Doe,Xiaomi,Poco X5 Pro,874.09,1,Cash,Bob Johnson,Uptown,3,Headphones,2,106.06
+690,2024-07-06,18:54:00,John Doe,Oppo,Find X6 Pro,339.55,1,Online,Alice Smith,Midtown,1,Screen Protector,2,114.34
+691,2024-01-02,15:43:00,Bob White,Vivo,V29 Pro,1025.59,2,Card,David Lee,Downtown,1,Screen Protector,2,2.4
+692,2024-10-08,10:17:00,Bob White,Apple,iPhone SE 2024,458.2,1,Cash,Bob Johnson,Uptown,3,Headphones,1,64.19
+693,2024-08-15,14:22:00,John Doe,Samsung,Galaxy S23,684.53,3,Cash,Emma Brown,Uptown,3,Screen Protector,3,13.76
+694,2024-03-25,11:13:00,Alice Green,Apple,iPhone 14,403.42,3,Cash,Alice Smith,Uptown,3,Charger,1,190.6
+695,2024-03-02,13:13:00,Mike Brown,Xiaomi,Redmi Note 13,745.86,1,Cash,Alice Smith,Uptown,3,None,3,18.11
+696,2024-09-28,18:51:00,Mike Brown,OnePlus,Nord CE 3 Lite,937.84,3,Card,Bob Johnson,Suburban,1,Charger,1,18.25
+697,2024-09-04,11:02:00,Bob White,Samsung,Galaxy Z Fold 5,627.27,3,Online,Bob Johnson,Downtown,2,Charger,5,147.63
+698,2024-10-27,19:38:00,Mike Brown,Apple,iPhone 15 Pro,1144.53,2,Cash,Claire Williams,Midtown,2,Screen Protector,3,11.07
+699,2024-03-31,19:07:00,Sarah Black,OnePlus,OnePlus Ace,906.26,3,Online,David Lee,Uptown,2,Charger,1,183.94
+700,2024-02-07,14:11:00,Alice Green,Vivo,Y200,433.86,2,Online,David Lee,Midtown,1,None,3,179.73
+701,2024-05-01,09:40:00,Bob White,Xiaomi,Mi 13 Ultra,986.71,1,Cash,Bob Johnson,Suburban,2,None,2,195.28
+702,2024-05-28,12:52:00,Jane Smith,Vivo,V29 Pro,325.88,3,Card,Bob Johnson,Suburban,3,Charger,2,48.77
+703,2024-04-26,09:54:00,John Doe,Vivo,V29 Pro,465.22,2,Online,Claire Williams,Uptown,2,None,1,83.34
+704,2024-07-12,19:15:00,John Doe,Apple,iPhone SE 2024,512.22,1,Online,David Lee,Uptown,1,Screen Protector,3,163.27
+705,2024-10-23,17:42:00,Jane Smith,Samsung,Galaxy S23,669.12,3,Online,David Lee,Uptown,3,None,2,12.96
+706,2024-05-01,12:46:00,Sarah Black,Oppo,Reno 10,266.78,1,Card,Emma Brown,Downtown,2,Headphones,2,47.02
+707,2024-01-07,13:57:00,Sarah Black,Samsung,Galaxy A14,1326.89,2,Card,Alice Smith,Suburban,2,Headphones,5,133.05
+708,2024-01-01,09:40:00,Jane Smith,Oppo,A78,394.6,1,Cash,Alice Smith,Suburban,1,Charger,5,114.57
+709,2024-09-12,10:58:00,Sarah Black,OnePlus,Nord CE 3 Lite,1131.58,1,Cash,Bob Johnson,Downtown,3,Charger,5,78.61
+710,2024-04-12,09:20:00,Alice Green,Oppo,Reno 10,999.89,3,Card,Alice Smith,Midtown,2,Screen Protector,2,140.18
+711,2024-07-12,14:38:00,Sarah Black,Oppo,Find X6 Pro,1255.87,2,Cash,Bob Johnson,Midtown,3,Screen Protector,1,94.61
+712,2024-08-09,13:19:00,John Doe,Vivo,Y200,215.29,3,Card,Bob Johnson,Suburban,1,Screen Protector,4,106.03
+713,2024-06-07,16:33:00,Bob White,Apple,iPhone SE 2024,1073.13,3,Card,David Lee,Midtown,2,Screen Protector,4,182.44
+714,2024-01-30,12:21:00,Mike Brown,Samsung,Galaxy Z Fold 5,933.27,3,Online,David Lee,Downtown,1,Headphones,1,127.09
+715,2024-07-09,18:46:00,Alice Green,Apple,iPhone 14,584.67,2,Cash,Emma Brown,Uptown,3,Charger,1,44.09
+716,2024-09-10,09:22:00,Bob White,Apple,iPhone 14,996.54,3,Card,Claire Williams,Midtown,3,None,4,64.92
+717,2024-08-20,10:38:00,Bob White,Oppo,Find X6 Pro,911.47,2,Online,Alice Smith,Suburban,2,None,2,7.33
+718,2024-08-03,16:16:00,Sarah Black,Xiaomi,Mi 13 Ultra,355.15,3,Card,David Lee,Midtown,2,Screen Protector,4,135.54
+719,2024-02-20,18:44:00,Jane Smith,Oppo,A78,613.82,3,Cash,Claire Williams,Uptown,3,Screen Protector,1,82.77
+720,2024-05-29,18:51:00,Jane Smith,Samsung,Galaxy Z Fold 5,548.54,1,Online,Emma Brown,Suburban,1,None,4,46.87
+721,2024-04-03,20:37:00,Bob White,Samsung,Galaxy A14,582.31,2,Cash,David Lee,Midtown,1,Charger,3,181.77
+722,2024-01-24,19:02:00,John Doe,Samsung,Galaxy S23,268.21,3,Online,Emma Brown,Uptown,3,Headphones,2,178.53
+723,2024-01-21,16:04:00,Bob White,Apple,iPhone SE 2024,295.24,3,Online,Claire Williams,Downtown,3,None,3,70.57
+724,2024-05-31,17:44:00,John Doe,Apple,iPhone 14,503.17,1,Online,Emma Brown,Downtown,2,None,3,193.07
+725,2024-01-15,15:10:00,John Doe,Vivo,X100 Pro,991.39,2,Card,Bob Johnson,Suburban,1,Screen Protector,5,119.22
+726,2024-04-12,10:03:00,Alice Green,Vivo,V29 Pro,946.4,1,Online,David Lee,Suburban,1,None,1,139.18
+727,2024-10-28,18:57:00,Sarah Black,Oppo,A78,580.69,2,Card,Alice Smith,Midtown,3,None,5,116.17
+728,2024-08-09,10:08:00,Sarah Black,Xiaomi,Poco X5 Pro,754.53,3,Cash,Emma Brown,Downtown,2,None,1,96.36
+729,2024-01-14,13:03:00,Bob White,Xiaomi,Poco X5 Pro,504.14,2,Card,Alice Smith,Suburban,1,Charger,4,187.17
+730,2024-02-25,18:35:00,Alice Green,Apple,iPhone SE 2024,959.37,3,Online,Claire Williams,Downtown,2,Charger,2,30.45
+731,2024-09-28,15:00:00,Bob White,Vivo,V29 Pro,243.08,2,Online,Bob Johnson,Downtown,3,Headphones,3,116.99
+732,2024-03-22,15:21:00,Bob White,Xiaomi,Redmi Note 13,1199.12,2,Cash,Claire Williams,Uptown,3,Headphones,2,59.75
+733,2024-03-02,15:37:00,Bob White,Samsung,Galaxy A14,234.76,1,Card,Bob Johnson,Downtown,1,Charger,2,50.06
+734,2024-12-23,16:06:00,Jane Smith,Vivo,X100 Pro,1166.26,2,Card,Alice Smith,Downtown,3,Headphones,5,77.57
+735,2024-12-16,12:03:00,Jane Smith,Samsung,Galaxy S23,882.38,3,Online,David Lee,Midtown,1,Charger,2,91.28
+736,2024-12-25,12:01:00,Jane Smith,Xiaomi,Poco X5 Pro,1196.26,3,Online,Emma Brown,Downtown,2,Headphones,1,181.68
+737,2024-01-20,16:42:00,Alice Green,Vivo,X100 Pro,1132.76,1,Online,Claire Williams,Uptown,1,Charger,1,164.59
+738,2024-03-27,11:32:00,Alice Green,Vivo,Y200,1211.14,3,Card,Claire Williams,Downtown,2,None,2,47.24
+739,2024-06-04,12:17:00,John Doe,Oppo,Find X6 Pro,1288.78,2,Cash,Claire Williams,Midtown,3,Screen Protector,4,118.04
+740,2024-11-06,19:31:00,John Doe,OnePlus,OnePlus 11,1074.45,3,Card,Emma Brown,Downtown,1,None,3,84.06
+741,2024-02-04,20:14:00,Bob White,OnePlus,Nord CE 3 Lite,1183.48,2,Online,David Lee,Suburban,3,None,2,94.27
+742,2024-06-16,10:58:00,Mike Brown,OnePlus,OnePlus 11,1004.15,1,Card,David Lee,Downtown,1,Charger,2,7.87
+743,2024-09-04,12:04:00,Mike Brown,Vivo,X100 Pro,728.93,2,Card,Emma Brown,Uptown,1,Charger,4,131.78
+744,2024-11-05,20:11:00,Alice Green,Vivo,X100 Pro,1253.43,3,Cash,Claire Williams,Midtown,2,Screen Protector,3,82.59
+745,2024-08-28,15:09:00,Sarah Black,Xiaomi,Redmi Note 13,1311.32,2,Online,David Lee,Downtown,1,Charger,2,159.94
+746,2024-01-02,20:24:00,Alice Green,Samsung,Galaxy A14,338.98,3,Cash,Emma Brown,Downtown,2,Charger,5,29.2
+747,2024-10-19,17:43:00,Alice Green,Apple,iPhone 15 Pro,566.51,3,Online,Emma Brown,Downtown,3,Charger,4,196.12
+748,2024-07-17,16:32:00,John Doe,Oppo,Reno 10,1420.84,3,Online,Emma Brown,Midtown,3,Charger,3,12.77
+749,2024-08-04,09:03:00,John Doe,Vivo,V29 Pro,500.37,3,Cash,Claire Williams,Downtown,2,None,1,155.12
+750,2024-01-16,13:50:00,Mike Brown,Oppo,Find X6 Pro,693.34,2,Card,Emma Brown,Midtown,3,Headphones,5,0.35
+751,2024-02-16,09:03:00,Bob White,Xiaomi,Mi 13 Ultra,351.56,3,Online,Bob Johnson,Suburban,2,None,4,192.1
+752,2024-07-25,18:45:00,Bob White,Apple,iPhone 14,1294.74,1,Cash,Alice Smith,Uptown,1,Headphones,4,132.97
+753,2024-04-11,17:32:00,Sarah Black,OnePlus,Nord CE 3 Lite,610.47,3,Card,Bob Johnson,Downtown,1,Screen Protector,3,144.01
+754,2024-09-01,13:42:00,Mike Brown,OnePlus,Nord CE 3 Lite,1071.34,1,Card,Claire Williams,Uptown,2,None,3,181.99
+755,2024-02-25,14:44:00,John Doe,Vivo,X100 Pro,1338.19,2,Online,Alice Smith,Downtown,3,Charger,2,28.91
+756,2024-01-15,15:48:00,Alice Green,Xiaomi,Redmi Note 13,210.8,3,Online,Bob Johnson,Downtown,3,None,2,72.78
+757,2024-11-29,09:43:00,Bob White,Oppo,Reno 10,844.89,3,Card,David Lee,Uptown,1,Headphones,1,106.68
+758,2024-04-18,17:12:00,Sarah Black,Apple,iPhone SE 2024,947.26,3,Online,David Lee,Downtown,3,Charger,3,172.27
+759,2024-06-07,13:11:00,Jane Smith,Xiaomi,Redmi Note 13,380.78,3,Cash,Claire Williams,Suburban,1,None,2,37.78
+760,2024-05-05,17:15:00,Mike Brown,Samsung,Galaxy S23,1147.95,2,Online,David Lee,Uptown,1,None,4,62.72
+761,2024-06-21,13:08:00,John Doe,Apple,iPhone 14,667.4,1,Card,David Lee,Uptown,1,None,4,111.67
+762,2024-08-10,14:08:00,Jane Smith,Oppo,Find X6 Pro,1360.77,1,Card,Bob Johnson,Midtown,2,None,5,83.89
+763,2024-04-06,15:30:00,Sarah Black,Apple,iPhone SE 2024,1251.97,2,Online,Bob Johnson,Suburban,1,None,1,56.94
+764,2024-06-04,15:43:00,John Doe,Samsung,Galaxy A14,1297.23,2,Card,Bob Johnson,Suburban,3,Charger,5,75.93
+765,2024-09-20,19:59:00,Bob White,Vivo,V29 Pro,457.67,1,Cash,Claire Williams,Uptown,1,Headphones,4,119.09
+766,2024-10-28,10:21:00,Bob White,OnePlus,Nord CE 3 Lite,405.5,2,Card,Bob Johnson,Suburban,1,Headphones,3,62.09
+767,2024-03-05,20:22:00,Mike Brown,Apple,iPhone 14,1306.28,2,Cash,Alice Smith,Downtown,2,Charger,1,28.47
+768,2024-07-14,15:48:00,John Doe,Apple,iPhone 14,1487.87,2,Online,David Lee,Uptown,1,None,2,184.89
+769,2024-06-15,10:31:00,Bob White,OnePlus,OnePlus Ace,418.73,1,Online,Alice Smith,Suburban,2,None,3,159.4
+770,2024-08-12,11:42:00,Mike Brown,OnePlus,OnePlus Ace,1447.21,2,Online,Emma Brown,Uptown,3,Headphones,2,49.75
+771,2024-02-03,19:06:00,Alice Green,Samsung,Galaxy Z Fold 5,1223.43,3,Card,Bob Johnson,Downtown,1,Headphones,4,181.19
+772,2024-12-23,17:52:00,Sarah Black,Xiaomi,Redmi Note 13,624.46,1,Online,Alice Smith,Midtown,3,Headphones,3,195.06
+773,2024-03-25,15:45:00,John Doe,Vivo,Y200,817.05,2,Card,Alice Smith,Downtown,1,Headphones,5,156.79
+774,2024-10-11,12:40:00,Sarah Black,Vivo,V29 Pro,909.35,2,Online,Emma Brown,Downtown,1,Headphones,3,197.85
+775,2024-12-04,11:55:00,Mike Brown,OnePlus,OnePlus Ace,1426.64,1,Online,David Lee,Suburban,3,Charger,2,30.67
+776,2024-09-14,11:26:00,Mike Brown,Vivo,V29 Pro,652.74,2,Online,David Lee,Uptown,1,None,2,143.31
+777,2024-01-06,19:43:00,Alice Green,Xiaomi,Mi 13 Ultra,990.25,3,Online,Claire Williams,Suburban,3,Charger,4,1.51
+778,2024-03-13,18:16:00,John Doe,OnePlus,OnePlus Ace,1495.17,3,Card,David Lee,Downtown,1,Headphones,4,99.43
+779,2024-04-22,17:11:00,Alice Green,Apple,iPhone SE 2024,1410.32,3,Card,Emma Brown,Suburban,1,Screen Protector,4,102.54
+780,2024-05-28,15:49:00,Alice Green,Xiaomi,Redmi Note 13,1407.87,3,Online,Bob Johnson,Downtown,3,Headphones,1,82.4
+781,2024-02-26,11:31:00,Sarah Black,Samsung,Galaxy Z Fold 5,781.78,1,Card,Alice Smith,Uptown,2,Screen Protector,2,41.57
+782,2024-08-16,17:41:00,Bob White,Apple,iPhone 15 Pro,983.58,1,Card,Alice Smith,Downtown,2,None,5,30.09
+783,2024-02-02,16:30:00,Alice Green,Vivo,V29 Pro,1135.72,1,Cash,Claire Williams,Downtown,2,Headphones,4,183.43
+784,2024-08-09,16:41:00,Mike Brown,Vivo,Y200,1357.09,2,Online,David Lee,Suburban,2,Headphones,1,184.76
+785,2024-07-06,12:32:00,Mike Brown,Vivo,Y200,854.01,2,Online,Alice Smith,Midtown,1,None,5,58.95
+786,2024-03-21,16:37:00,Alice Green,Apple,iPhone 14,1441.73,3,Online,Claire Williams,Uptown,1,Screen Protector,1,27.03
+787,2024-04-10,13:56:00,Mike Brown,Oppo,Find X6 Pro,1444.23,3,Online,Bob Johnson,Midtown,2,None,1,6.53
+788,2024-01-06,11:20:00,Jane Smith,Apple,iPhone 15 Pro,802.52,1,Online,Alice Smith,Downtown,3,None,4,10.44
+789,2024-09-24,17:22:00,Sarah Black,Samsung,Galaxy Z Fold 5,1391.17,2,Online,Claire Williams,Midtown,2,Screen Protector,5,28.05
+790,2024-10-03,11:43:00,Bob White,Apple,iPhone 14,744.2,3,Cash,Alice Smith,Uptown,1,Charger,3,99.11
+791,2024-01-12,17:38:00,Mike Brown,OnePlus,OnePlus Ace,829.12,1,Card,Emma Brown,Suburban,1,None,5,100.55
+792,2024-08-07,10:07:00,Alice Green,Xiaomi,Redmi Note 13,1197.52,2,Online,Claire Williams,Downtown,3,Headphones,3,34.67
+793,2024-05-08,17:15:00,Alice Green,Apple,iPhone 14,439.83,3,Online,Emma Brown,Suburban,3,None,5,137.78
+794,2024-01-17,09:11:00,Jane Smith,Oppo,Find X6 Pro,1231.55,1,Cash,Alice Smith,Uptown,3,Screen Protector,1,81.6
+795,2024-12-06,09:17:00,Bob White,Apple,iPhone 15 Pro,1260.65,1,Card,Emma Brown,Midtown,1,Charger,3,199.39
+796,2024-11-29,19:21:00,Alice Green,Vivo,Y200,330.08,1,Card,Claire Williams,Downtown,2,Screen Protector,2,179.87
+797,2024-12-03,14:20:00,Sarah Black,Vivo,Y200,1422.9,3,Cash,David Lee,Suburban,3,Headphones,3,57.92
+798,2024-02-27,15:47:00,Bob White,Oppo,A78,887.86,2,Cash,Bob Johnson,Suburban,3,Headphones,3,18.67
+799,2024-03-13,14:52:00,Sarah Black,Apple,iPhone 15 Pro,1442.9,3,Online,Alice Smith,Uptown,3,None,3,70.19
+800,2024-12-05,20:27:00,Mike Brown,Oppo,A78,404.13,2,Cash,David Lee,Downtown,3,Headphones,3,64.17
+801,2024-06-20,11:43:00,Jane Smith,Xiaomi,Redmi Note 13,566.73,2,Cash,Alice Smith,Downtown,3,Charger,5,127.81
+802,2024-01-16,13:49:00,Alice Green,Samsung,Galaxy Z Fold 5,709.74,1,Cash,Claire Williams,Suburban,3,None,2,147.12
+803,2024-07-07,16:29:00,Alice Green,Oppo,A78,1206.7,2,Cash,Claire Williams,Uptown,1,Screen Protector,2,87.23
+804,2024-09-14,11:13:00,Jane Smith,OnePlus,OnePlus 11,678.54,2,Online,Claire Williams,Suburban,2,None,3,6.88
+805,2024-08-01,18:18:00,John Doe,Samsung,Galaxy Z Fold 5,1439.93,2,Cash,Emma Brown,Suburban,3,Screen Protector,5,19.83
+806,2024-02-23,12:39:00,John Doe,Xiaomi,Mi 13 Ultra,347.83,2,Online,Emma Brown,Downtown,2,Screen Protector,3,147.88
+807,2024-02-23,09:52:00,Sarah Black,Samsung,Galaxy A14,1021.33,1,Online,Bob Johnson,Suburban,3,None,1,79.65
+808,2024-06-27,14:51:00,Alice Green,Oppo,Find X6 Pro,1391.41,2,Cash,David Lee,Suburban,1,Charger,1,11.85
+809,2024-01-15,10:45:00,Jane Smith,Samsung,Galaxy Z Fold 5,482.39,1,Online,Emma Brown,Midtown,1,Screen Protector,3,98.37
+810,2024-02-01,10:08:00,Alice Green,Oppo,Find X6 Pro,600.48,1,Card,David Lee,Midtown,1,Headphones,1,103.82
+811,2024-06-22,09:52:00,Sarah Black,Vivo,V29 Pro,444.69,1,Online,Claire Williams,Downtown,2,None,1,46.2
+812,2024-06-02,09:03:00,Sarah Black,OnePlus,OnePlus 11,406.99,2,Cash,David Lee,Midtown,1,Screen Protector,2,5.57
+813,2024-10-04,09:22:00,Alice Green,Xiaomi,Redmi Note 13,702.6,1,Online,Emma Brown,Midtown,3,Headphones,4,92.74
+814,2024-10-06,11:39:00,Bob White,Xiaomi,Mi 13 Ultra,1118.24,3,Online,Alice Smith,Midtown,1,Charger,4,109.13
+815,2024-10-15,15:30:00,Alice Green,Apple,iPhone SE 2024,228.39,3,Cash,Emma Brown,Suburban,2,Headphones,5,169.84
+816,2024-07-25,17:49:00,Alice Green,Vivo,X100 Pro,1376.76,1,Card,Emma Brown,Midtown,3,None,4,92.71
+817,2024-04-13,17:28:00,Sarah Black,Apple,iPhone 14,1449.62,1,Card,David Lee,Suburban,1,Charger,5,147.88
+818,2024-06-01,20:47:00,Sarah Black,Samsung,Galaxy S23,768.02,1,Card,David Lee,Downtown,2,Headphones,3,181.02
+819,2024-12-08,16:19:00,John Doe,Vivo,V29 Pro,1473.02,1,Cash,Emma Brown,Downtown,2,Charger,3,199.87
+820,2024-10-22,10:02:00,Alice Green,Apple,iPhone 15 Pro,1397.86,3,Cash,Bob Johnson,Midtown,2,Charger,5,24.28
+821,2024-11-08,19:03:00,Mike Brown,Oppo,Reno 10,704.68,2,Cash,Alice Smith,Downtown,2,None,5,106.88
+822,2024-12-07,11:46:00,John Doe,Vivo,V29 Pro,1262.7,1,Cash,Bob Johnson,Midtown,3,Headphones,5,135.63
+823,2024-09-02,18:27:00,John Doe,Vivo,Y200,1481.04,3,Online,Alice Smith,Uptown,1,None,3,140.17
+824,2024-10-09,18:03:00,Bob White,Xiaomi,Redmi Note 13,995.94,3,Online,David Lee,Downtown,1,Charger,2,21.79
+825,2024-04-18,20:37:00,John Doe,Apple,iPhone SE 2024,296.68,3,Card,David Lee,Uptown,1,Headphones,4,0.01
+826,2024-08-22,15:09:00,Bob White,Xiaomi,Redmi Note 13,1371.68,2,Card,Bob Johnson,Suburban,1,Charger,5,69.31
+827,2024-03-24,11:35:00,Sarah Black,OnePlus,Nord CE 3 Lite,300.18,3,Online,Claire Williams,Suburban,3,Charger,4,158.85
+828,2024-07-10,09:13:00,Alice Green,Xiaomi,Redmi Note 13,333.32,3,Cash,Emma Brown,Suburban,2,Headphones,5,67.82
+829,2024-08-26,13:14:00,John Doe,Vivo,X100 Pro,743.71,3,Online,Emma Brown,Downtown,2,Screen Protector,3,126.44
+830,2024-12-07,14:48:00,Jane Smith,Vivo,V29 Pro,438.74,2,Cash,Claire Williams,Downtown,2,Headphones,2,175.71
+831,2024-07-03,14:29:00,Mike Brown,Xiaomi,Mi 13 Ultra,979.43,1,Card,Alice Smith,Downtown,1,None,1,199.25
+832,2024-10-17,19:09:00,Sarah Black,Xiaomi,Mi 13 Ultra,1434.52,2,Card,Alice Smith,Uptown,2,Headphones,2,25.22
+833,2024-03-12,19:56:00,Mike Brown,Vivo,Y200,1356.81,3,Online,Emma Brown,Downtown,1,Charger,3,160.4
+834,2024-10-07,09:13:00,Jane Smith,Samsung,Galaxy Z Fold 5,402.19,1,Card,Bob Johnson,Uptown,1,Headphones,1,27.73
+835,2024-08-14,13:21:00,John Doe,Oppo,A78,270.81,3,Cash,Emma Brown,Suburban,1,Headphones,2,95.1
+836,2024-11-16,14:38:00,Sarah Black,Vivo,X100 Pro,954.89,3,Card,Claire Williams,Uptown,2,None,1,150.7
+837,2024-09-02,19:35:00,Sarah Black,Samsung,Galaxy S23,1110.9,2,Card,Alice Smith,Midtown,3,Screen Protector,4,27.41
+838,2024-04-16,19:42:00,Sarah Black,Xiaomi,Poco X5 Pro,513.21,1,Cash,Bob Johnson,Uptown,2,Charger,4,80.85
+839,2024-08-04,12:07:00,Sarah Black,Xiaomi,Mi 13 Ultra,874.4,2,Card,Bob Johnson,Suburban,2,Headphones,4,9.47
+840,2024-10-01,13:26:00,Jane Smith,Oppo,Reno 10,691.71,2,Online,Alice Smith,Suburban,2,Screen Protector,5,73.51
+841,2024-08-07,11:37:00,Jane Smith,Oppo,Find X6 Pro,342.13,3,Cash,Alice Smith,Downtown,3,None,1,48.5
+842,2024-02-12,09:47:00,Alice Green,Samsung,Galaxy A14,1470.35,3,Online,Emma Brown,Suburban,2,None,1,112.21
+843,2024-08-09,09:54:00,John Doe,OnePlus,Nord CE 3 Lite,1342.63,3,Online,Bob Johnson,Midtown,3,Screen Protector,2,18.77
+844,2024-05-22,20:50:00,Mike Brown,Apple,iPhone 14,362.35,1,Cash,David Lee,Downtown,2,None,1,190.21
+845,2024-01-25,18:04:00,John Doe,Xiaomi,Mi 13 Ultra,695.24,1,Card,Alice Smith,Downtown,1,Headphones,1,131.59
+846,2024-06-19,09:47:00,Bob White,Oppo,Reno 10,271.77,3,Online,Alice Smith,Downtown,2,Charger,5,29.0
+847,2024-10-03,18:44:00,Bob White,Xiaomi,Mi 13 Ultra,356.47,2,Cash,David Lee,Uptown,2,Screen Protector,5,162.14
+848,2024-02-27,09:11:00,Alice Green,Vivo,V29 Pro,300.28,3,Cash,Emma Brown,Downtown,2,Screen Protector,4,17.48
+849,2024-05-15,11:40:00,Sarah Black,Apple,iPhone SE 2024,1111.07,1,Card,Emma Brown,Suburban,3,Headphones,3,122.87
+850,2024-12-08,09:28:00,Alice Green,Xiaomi,Poco X5 Pro,201.22,3,Card,Emma Brown,Uptown,1,Screen Protector,2,164.63
+851,2024-12-09,13:39:00,Alice Green,Apple,iPhone SE 2024,975.84,3,Card,Claire Williams,Suburban,2,Charger,3,73.99
+852,2024-10-29,20:00:00,Sarah Black,Oppo,Find X6 Pro,281.63,2,Cash,Bob Johnson,Midtown,3,Charger,3,113.1
+853,2024-08-30,18:52:00,Sarah Black,Apple,iPhone 14,311.96,2,Card,Claire Williams,Midtown,3,Screen Protector,4,159.12
+854,2024-02-13,12:14:00,Mike Brown,Xiaomi,Mi 13 Ultra,1489.28,1,Card,David Lee,Suburban,1,Headphones,2,186.56
+855,2024-01-01,17:30:00,Sarah Black,Oppo,A78,257.32,1,Card,David Lee,Suburban,2,None,3,124.1
+856,2024-07-21,11:24:00,Bob White,Xiaomi,Poco X5 Pro,1043.74,2,Card,Bob Johnson,Suburban,2,Charger,3,173.26
+857,2024-04-24,14:23:00,Sarah Black,Apple,iPhone SE 2024,778.2,1,Online,Emma Brown,Downtown,1,Headphones,5,161.21
+858,2024-11-13,20:36:00,John Doe,OnePlus,OnePlus 11,697.92,2,Card,David Lee,Uptown,3,Charger,3,45.5
+859,2024-09-23,10:53:00,Alice Green,Xiaomi,Redmi Note 13,1322.6,1,Cash,Alice Smith,Suburban,1,Charger,2,117.93
+860,2024-01-10,10:59:00,John Doe,Apple,iPhone 14,1207.48,2,Online,Alice Smith,Downtown,2,Headphones,1,5.31
+861,2024-05-13,13:15:00,John Doe,Vivo,Y200,1397.63,2,Cash,Claire Williams,Downtown,1,Screen Protector,1,166.13
+862,2024-03-24,15:32:00,Mike Brown,Vivo,Y200,241.06,1,Cash,Alice Smith,Suburban,3,None,2,166.76
+863,2024-08-05,15:55:00,Alice Green,Xiaomi,Mi 13 Ultra,837.34,1,Online,Emma Brown,Suburban,1,Headphones,5,161.32
+864,2024-07-05,12:27:00,Bob White,Apple,iPhone 15 Pro,1008.45,2,Cash,Emma Brown,Uptown,1,None,1,154.57
+865,2024-08-22,09:27:00,John Doe,OnePlus,OnePlus 11,1308.38,2,Card,Claire Williams,Downtown,2,None,5,70.17
+866,2024-11-03,15:23:00,John Doe,Apple,iPhone SE 2024,1290.63,1,Online,Alice Smith,Downtown,2,None,4,94.89
+867,2024-04-04,20:51:00,Sarah Black,Oppo,Reno 10,918.67,1,Cash,Bob Johnson,Midtown,1,None,1,27.94
+868,2024-06-05,13:56:00,Sarah Black,OnePlus,Nord CE 3 Lite,812.17,3,Online,Emma Brown,Downtown,2,Headphones,2,64.63
+869,2024-02-06,18:53:00,Jane Smith,Apple,iPhone 14,1194.52,1,Cash,David Lee,Uptown,2,Screen Protector,5,159.39
+870,2024-12-23,09:42:00,Alice Green,Xiaomi,Poco X5 Pro,1497.31,3,Online,Bob Johnson,Uptown,1,None,4,155.87
+871,2024-12-21,14:10:00,Bob White,Oppo,A78,1488.21,2,Online,David Lee,Downtown,2,None,3,24.57
+872,2024-06-18,11:51:00,Sarah Black,Samsung,Galaxy A14,370.29,3,Online,David Lee,Suburban,3,None,1,47.21
+873,2024-04-23,17:58:00,Alice Green,Samsung,Galaxy S23,740.89,2,Online,Emma Brown,Midtown,1,None,2,51.96
+874,2024-02-03,10:17:00,Mike Brown,OnePlus,Nord CE 3 Lite,1274.1,2,Online,David Lee,Midtown,1,Headphones,4,35.41
+875,2024-02-08,20:45:00,Bob White,OnePlus,OnePlus Ace,954.38,1,Card,Alice Smith,Downtown,1,Screen Protector,5,173.59
+876,2024-10-20,18:09:00,Bob White,Samsung,Galaxy Z Fold 5,562.94,2,Online,David Lee,Downtown,2,Headphones,1,85.2
+877,2024-01-24,16:30:00,Mike Brown,Vivo,X100 Pro,931.9,2,Cash,Bob Johnson,Suburban,1,Screen Protector,1,145.86
+878,2024-07-05,11:03:00,Alice Green,OnePlus,Nord CE 3 Lite,203.18,2,Cash,Claire Williams,Midtown,2,Headphones,5,131.46
+879,2024-01-26,14:08:00,Jane Smith,Oppo,Find X6 Pro,381.85,2,Cash,Alice Smith,Downtown,3,Charger,2,103.53
+880,2024-02-18,11:26:00,Mike Brown,OnePlus,OnePlus 11,816.0,2,Cash,Emma Brown,Suburban,3,Headphones,1,194.33
+881,2024-07-23,17:18:00,Jane Smith,Samsung,Galaxy S23,341.52,3,Cash,Emma Brown,Midtown,3,Charger,3,156.79
+882,2024-10-27,10:35:00,Mike Brown,Apple,iPhone 15 Pro,260.0,1,Card,David Lee,Downtown,2,Headphones,3,6.06
+883,2024-09-10,18:00:00,Jane Smith,Oppo,Find X6 Pro,1174.83,3,Cash,Claire Williams,Downtown,1,None,4,93.81
+884,2024-11-26,15:05:00,Alice Green,Samsung,Galaxy Z Fold 5,1389.49,1,Card,David Lee,Midtown,2,Screen Protector,5,159.09
+885,2024-06-29,20:23:00,Jane Smith,Oppo,Find X6 Pro,326.74,1,Cash,Bob Johnson,Midtown,1,Screen Protector,5,68.45
+886,2024-09-21,17:19:00,Bob White,Apple,iPhone SE 2024,647.49,1,Online,David Lee,Suburban,1,Screen Protector,5,131.59
+887,2024-09-04,15:53:00,John Doe,Oppo,Find X6 Pro,1328.12,2,Card,Claire Williams,Midtown,2,Screen Protector,4,14.52
+888,2024-12-05,19:49:00,Sarah Black,Samsung,Galaxy Z Fold 5,1227.24,3,Card,David Lee,Downtown,1,Charger,2,67.81
+889,2024-11-03,18:56:00,John Doe,Vivo,X100 Pro,1093.35,3,Online,Claire Williams,Suburban,3,None,4,183.75
+890,2024-08-20,12:28:00,Bob White,Apple,iPhone 14,260.18,3,Card,David Lee,Uptown,1,Charger,2,85.77
+891,2024-05-29,18:42:00,Alice Green,Oppo,Find X6 Pro,1416.81,3,Online,David Lee,Suburban,2,Screen Protector,4,51.61
+892,2024-04-30,18:55:00,Mike Brown,Vivo,Y200,1120.93,1,Card,Claire Williams,Downtown,2,Screen Protector,1,58.88
+893,2024-08-18,14:11:00,Alice Green,Oppo,Reno 10,1308.81,2,Online,Emma Brown,Midtown,2,Charger,4,129.5
+894,2024-10-18,14:58:00,John Doe,Samsung,Galaxy A14,1283.52,3,Online,Bob Johnson,Suburban,3,Charger,1,179.05
+895,2024-05-27,10:34:00,Mike Brown,Xiaomi,Poco X5 Pro,1418.19,2,Online,Emma Brown,Midtown,2,Screen Protector,4,167.12
+896,2024-10-03,19:07:00,John Doe,Xiaomi,Mi 13 Ultra,977.25,2,Online,David Lee,Uptown,3,Headphones,3,83.48
+897,2024-07-12,09:54:00,Sarah Black,Oppo,A78,582.84,1,Online,Bob Johnson,Uptown,3,Charger,2,21.43
+898,2024-12-19,17:28:00,Sarah Black,Apple,iPhone 14,947.81,3,Online,Emma Brown,Downtown,2,Charger,4,38.17
+899,2024-04-02,15:34:00,Sarah Black,Vivo,V29 Pro,1213.36,2,Card,David Lee,Downtown,2,Headphones,2,120.15
+900,2024-07-29,11:49:00,John Doe,Samsung,Galaxy Z Fold 5,742.67,2,Cash,Emma Brown,Midtown,3,Screen Protector,2,13.92
+901,2024-04-18,11:58:00,Mike Brown,Apple,iPhone SE 2024,1197.37,1,Online,Alice Smith,Uptown,2,Charger,4,78.88
+902,2024-05-24,18:57:00,Bob White,Samsung,Galaxy A14,1294.91,1,Cash,Alice Smith,Suburban,2,Screen Protector,2,165.27
+903,2024-05-04,15:01:00,Jane Smith,Apple,iPhone 15 Pro,1054.8,2,Online,David Lee,Downtown,1,Screen Protector,4,106.18
+904,2024-11-01,10:15:00,Jane Smith,OnePlus,OnePlus Ace,936.85,2,Card,Emma Brown,Midtown,2,Screen Protector,4,6.24
+905,2024-02-29,20:40:00,Sarah Black,Samsung,Galaxy A14,693.17,1,Card,Alice Smith,Suburban,2,None,2,166.87
+906,2024-04-03,13:14:00,Bob White,Apple,iPhone 14,1328.07,2,Online,Bob Johnson,Downtown,3,Headphones,3,172.1
+907,2024-05-29,18:55:00,Jane Smith,Samsung,Galaxy A14,1051.6,1,Card,Emma Brown,Uptown,3,None,1,69.74
+908,2024-07-07,15:23:00,Jane Smith,Xiaomi,Redmi Note 13,1088.18,1,Online,Bob Johnson,Midtown,3,Charger,1,178.95
+909,2024-11-11,10:10:00,Alice Green,Xiaomi,Poco X5 Pro,709.62,2,Cash,Alice Smith,Uptown,1,Headphones,4,0.03
+910,2024-05-19,09:37:00,Alice Green,Samsung,Galaxy Z Fold 5,382.08,3,Online,Bob Johnson,Uptown,3,Headphones,4,76.01
+911,2024-12-02,09:13:00,Mike Brown,Vivo,X100 Pro,1056.74,3,Cash,Bob Johnson,Midtown,2,Screen Protector,3,175.64
+912,2024-05-27,12:52:00,Jane Smith,Xiaomi,Poco X5 Pro,479.25,3,Cash,Claire Williams,Uptown,3,Charger,3,185.78
+913,2024-04-27,09:18:00,Sarah Black,Apple,iPhone SE 2024,1098.41,2,Online,Bob Johnson,Uptown,2,Charger,5,90.61
+914,2024-07-16,17:29:00,John Doe,Oppo,Reno 10,356.11,1,Cash,Alice Smith,Downtown,2,Screen Protector,5,38.52
+915,2024-04-10,20:30:00,John Doe,Vivo,X100 Pro,1343.45,1,Online,David Lee,Suburban,1,None,4,46.33
+916,2024-09-24,12:26:00,Bob White,OnePlus,OnePlus 11,829.97,3,Cash,David Lee,Uptown,1,Headphones,2,122.45
+917,2024-10-18,10:13:00,Alice Green,Xiaomi,Mi 13 Ultra,1305.45,1,Card,Alice Smith,Suburban,2,Screen Protector,1,118.18
+918,2024-08-15,09:33:00,Sarah Black,Xiaomi,Poco X5 Pro,692.94,2,Online,Emma Brown,Uptown,3,Charger,5,36.65
+919,2024-04-22,20:23:00,John Doe,Apple,iPhone 15 Pro,1376.42,2,Cash,Emma Brown,Suburban,1,Headphones,5,123.57
+920,2024-04-04,16:58:00,Jane Smith,Apple,iPhone SE 2024,1082.35,1,Cash,Bob Johnson,Suburban,1,Screen Protector,4,119.85
+921,2024-09-29,17:36:00,Sarah Black,OnePlus,Nord CE 3 Lite,939.4,2,Cash,Emma Brown,Suburban,3,Charger,1,169.59
+922,2024-03-01,18:56:00,Sarah Black,Xiaomi,Redmi Note 13,1330.25,3,Online,Claire Williams,Midtown,1,Charger,5,92.77
+923,2024-07-22,12:02:00,Alice Green,Samsung,Galaxy Z Fold 5,1188.13,2,Cash,Claire Williams,Suburban,2,Screen Protector,1,79.9
+924,2024-05-17,15:45:00,Mike Brown,OnePlus,OnePlus 11,926.58,1,Cash,Emma Brown,Downtown,3,Charger,5,77.7
+925,2024-04-29,14:29:00,Sarah Black,Vivo,V29 Pro,474.28,3,Card,Alice Smith,Downtown,2,None,5,78.48
+926,2024-04-15,16:11:00,Mike Brown,OnePlus,OnePlus Ace,469.02,2,Cash,David Lee,Midtown,3,Screen Protector,1,171.48
+927,2024-05-22,09:01:00,Alice Green,OnePlus,OnePlus 11,1102.49,1,Card,David Lee,Uptown,2,Headphones,3,96.67
+928,2024-07-20,09:39:00,Mike Brown,Xiaomi,Mi 13 Ultra,372.04,1,Online,David Lee,Downtown,3,Charger,5,38.99
+929,2024-08-12,13:54:00,John Doe,OnePlus,Nord CE 3 Lite,1117.2,2,Online,Emma Brown,Downtown,1,Charger,3,13.98
+930,2024-08-19,12:54:00,Sarah Black,Samsung,Galaxy Z Fold 5,540.93,3,Cash,Alice Smith,Downtown,2,Headphones,1,74.01
+931,2024-01-16,10:31:00,Alice Green,OnePlus,OnePlus Ace,503.41,1,Card,Emma Brown,Midtown,1,Screen Protector,5,10.12
+932,2024-06-28,13:36:00,Alice Green,Oppo,Reno 10,1411.52,3,Cash,Claire Williams,Suburban,3,Charger,1,173.21
+933,2024-09-14,15:29:00,John Doe,Xiaomi,Redmi Note 13,1119.87,1,Card,David Lee,Downtown,2,Headphones,2,193.61
+934,2024-03-28,09:47:00,Bob White,Xiaomi,Mi 13 Ultra,1052.99,2,Cash,Emma Brown,Uptown,2,None,3,39.14
+935,2024-04-22,09:46:00,John Doe,Vivo,X100 Pro,619.0,1,Card,Alice Smith,Suburban,1,Screen Protector,4,139.93
+936,2024-05-29,12:58:00,Jane Smith,Samsung,Galaxy S23,1090.55,3,Online,Claire Williams,Midtown,1,Headphones,4,186.79
+937,2024-08-17,12:50:00,Bob White,Xiaomi,Poco X5 Pro,1028.17,3,Online,Alice Smith,Midtown,1,Charger,5,178.45
+938,2024-11-15,14:23:00,Bob White,Xiaomi,Poco X5 Pro,424.37,1,Online,Emma Brown,Uptown,1,Headphones,4,179.07
+939,2024-06-07,19:47:00,John Doe,Vivo,X100 Pro,1170.56,2,Online,Emma Brown,Uptown,1,Headphones,3,64.42
+940,2024-04-01,11:48:00,Bob White,Vivo,X100 Pro,1118.67,1,Card,Bob Johnson,Suburban,2,Charger,5,179.63
+941,2024-04-25,11:10:00,Sarah Black,OnePlus,Nord CE 3 Lite,745.05,2,Card,David Lee,Uptown,1,Screen Protector,4,62.32
+942,2024-08-31,16:08:00,Jane Smith,Apple,iPhone SE 2024,605.71,3,Card,Claire Williams,Uptown,3,Charger,3,134.92
+943,2024-05-04,12:52:00,John Doe,Oppo,Find X6 Pro,291.45,3,Card,Bob Johnson,Uptown,3,Headphones,3,158.85
+944,2024-02-10,14:34:00,Jane Smith,Xiaomi,Poco X5 Pro,970.16,1,Online,Emma Brown,Uptown,1,Screen Protector,2,148.71
+945,2024-05-22,09:26:00,Sarah Black,Samsung,Galaxy S23,396.89,3,Online,Emma Brown,Midtown,3,Headphones,5,176.3
+946,2024-05-30,14:49:00,Mike Brown,Vivo,X100 Pro,1178.24,2,Cash,Alice Smith,Suburban,1,Charger,1,14.07
+947,2024-01-24,09:29:00,Jane Smith,Vivo,X100 Pro,1409.05,1,Online,Bob Johnson,Midtown,1,Screen Protector,3,26.86
+948,2024-04-29,13:15:00,Alice Green,OnePlus,OnePlus Ace,1131.54,3,Cash,Claire Williams,Suburban,1,Charger,3,184.36
+949,2024-05-03,12:39:00,Alice Green,Apple,iPhone 15 Pro,290.3,3,Cash,Bob Johnson,Downtown,2,None,2,3.86
+950,2024-09-05,15:45:00,Sarah Black,OnePlus,Nord CE 3 Lite,638.13,1,Card,Emma Brown,Uptown,2,Headphones,3,180.49
+951,2024-09-04,12:51:00,Bob White,Samsung,Galaxy Z Fold 5,859.27,1,Cash,Emma Brown,Midtown,1,Headphones,5,142.59
+952,2024-06-04,09:31:00,Sarah Black,Xiaomi,Poco X5 Pro,783.12,2,Card,Emma Brown,Suburban,2,Screen Protector,2,40.49
+953,2024-01-29,14:27:00,Mike Brown,OnePlus,OnePlus Ace,838.6,2,Cash,David Lee,Uptown,3,None,3,42.61
+954,2024-10-21,13:56:00,Bob White,Apple,iPhone 14,1361.43,1,Card,Bob Johnson,Midtown,2,Headphones,5,108.3
+955,2024-06-17,10:48:00,Jane Smith,Vivo,V29 Pro,1109.77,2,Cash,Claire Williams,Midtown,1,Charger,2,179.57
+956,2024-01-10,13:36:00,Bob White,Xiaomi,Poco X5 Pro,1293.96,3,Card,Claire Williams,Suburban,3,Headphones,5,0.21
+957,2024-07-05,17:02:00,Mike Brown,Samsung,Galaxy Z Fold 5,1081.83,1,Cash,Bob Johnson,Suburban,1,Screen Protector,5,16.65
+958,2024-10-26,20:35:00,Alice Green,Vivo,V29 Pro,673.08,2,Cash,Claire Williams,Uptown,3,Headphones,1,81.39
+959,2024-03-30,10:46:00,Bob White,Xiaomi,Redmi Note 13,1304.99,2,Cash,David Lee,Midtown,3,Headphones,3,44.26
+960,2024-12-20,14:31:00,Alice Green,Samsung,Galaxy S23,787.36,3,Cash,Alice Smith,Downtown,3,Charger,2,89.18
+961,2024-01-15,15:15:00,Sarah Black,Xiaomi,Poco X5 Pro,1106.62,2,Online,Alice Smith,Downtown,2,Screen Protector,5,153.02
+962,2024-01-12,10:00:00,Alice Green,Samsung,Galaxy S23,541.03,2,Card,Alice Smith,Suburban,2,Screen Protector,4,51.1
+963,2024-04-18,15:21:00,Bob White,Xiaomi,Mi 13 Ultra,1465.77,3,Cash,David Lee,Uptown,1,None,5,190.23
+964,2024-12-22,17:53:00,Jane Smith,Samsung,Galaxy Z Fold 5,1229.57,2,Online,Claire Williams,Midtown,2,None,3,31.87
+965,2024-05-05,19:15:00,Mike Brown,OnePlus,OnePlus Ace,583.38,1,Cash,Bob Johnson,Uptown,2,None,1,43.04
+966,2024-09-19,11:01:00,Mike Brown,Oppo,Find X6 Pro,605.16,2,Card,David Lee,Uptown,2,Headphones,3,127.15
+967,2024-11-20,10:45:00,John Doe,Vivo,Y200,878.28,3,Cash,Claire Williams,Suburban,2,Screen Protector,3,110.28
+968,2024-01-02,11:39:00,Jane Smith,Apple,iPhone SE 2024,222.19,2,Cash,Emma Brown,Midtown,2,Charger,3,192.73
+969,2024-01-25,11:41:00,Bob White,Samsung,Galaxy S23,1288.6,2,Card,David Lee,Downtown,2,Headphones,3,15.45
+970,2024-11-28,20:15:00,Jane Smith,Vivo,X100 Pro,1062.94,3,Card,David Lee,Suburban,3,Screen Protector,1,32.13
+971,2024-06-10,20:37:00,Mike Brown,Oppo,Find X6 Pro,1017.3,2,Cash,Alice Smith,Uptown,2,None,3,148.04
+972,2024-04-08,20:18:00,John Doe,Xiaomi,Poco X5 Pro,1280.8,1,Card,Bob Johnson,Suburban,1,Headphones,2,197.37
+973,2024-10-26,19:35:00,Jane Smith,Samsung,Galaxy Z Fold 5,1137.51,3,Cash,Alice Smith,Suburban,3,Headphones,2,2.89
+974,2024-12-10,16:41:00,Alice Green,Vivo,Y200,935.65,3,Online,David Lee,Downtown,1,Headphones,1,105.13
+975,2024-10-12,11:48:00,Sarah Black,Apple,iPhone SE 2024,1251.3,3,Online,Alice Smith,Downtown,1,Charger,3,73.38
+976,2024-03-25,15:45:00,Mike Brown,Xiaomi,Poco X5 Pro,1148.96,2,Cash,Claire Williams,Midtown,1,None,1,179.97
+977,2024-11-01,10:32:00,Bob White,Apple,iPhone 14,424.67,3,Card,Claire Williams,Suburban,1,Charger,5,173.7
+978,2024-06-28,15:09:00,Bob White,Oppo,Find X6 Pro,248.55,2,Card,David Lee,Uptown,3,Charger,4,99.02
+979,2024-11-06,13:05:00,Alice Green,OnePlus,OnePlus Ace,345.42,1,Card,Emma Brown,Uptown,3,Screen Protector,5,175.34
+980,2024-04-21,17:13:00,Bob White,Vivo,X100 Pro,878.31,3,Card,David Lee,Midtown,1,Charger,4,134.6
+981,2024-02-20,16:49:00,Sarah Black,Oppo,A78,728.35,2,Cash,Claire Williams,Midtown,1,Headphones,1,165.83
+982,2024-12-05,20:50:00,John Doe,OnePlus,Nord CE 3 Lite,865.33,1,Online,Emma Brown,Uptown,2,Charger,1,99.56
+983,2024-12-08,10:29:00,Sarah Black,Oppo,A78,281.25,2,Cash,Emma Brown,Suburban,3,Headphones,1,113.12
+984,2024-03-02,16:54:00,John Doe,OnePlus,OnePlus Ace,438.01,3,Card,Bob Johnson,Uptown,2,None,2,162.52
+985,2024-04-11,09:05:00,Mike Brown,Apple,iPhone 15 Pro,1486.79,2,Card,Claire Williams,Suburban,2,Charger,1,52.34
+986,2024-01-16,19:42:00,Alice Green,Samsung,Galaxy Z Fold 5,1315.41,3,Card,Claire Williams,Midtown,3,Charger,5,160.2
+987,2024-03-11,17:33:00,Alice Green,Vivo,Y200,1392.03,2,Online,Bob Johnson,Suburban,1,Screen Protector,2,115.19
+988,2024-10-19,11:45:00,Bob White,Xiaomi,Poco X5 Pro,668.98,1,Online,Emma Brown,Suburban,3,Headphones,4,53.1
+989,2024-10-31,17:32:00,Bob White,Oppo,Find X6 Pro,676.26,3,Online,Claire Williams,Uptown,2,Headphones,5,146.51
+990,2024-12-24,16:18:00,Sarah Black,Oppo,Find X6 Pro,734.34,1,Online,Alice Smith,Midtown,3,Charger,3,196.32
+991,2024-03-09,09:22:00,Alice Green,Oppo,Reno 10,975.41,3,Card,Emma Brown,Uptown,3,Headphones,3,132.36
+992,2024-01-26,17:46:00,Sarah Black,Oppo,A78,840.19,3,Cash,Emma Brown,Midtown,3,None,1,13.23
+993,2024-01-24,15:57:00,Alice Green,Vivo,X100 Pro,1165.97,3,Card,Claire Williams,Downtown,3,Screen Protector,2,166.37
+994,2024-08-07,12:47:00,John Doe,Xiaomi,Mi 13 Ultra,517.83,1,Online,Claire Williams,Suburban,3,None,5,102.39
+995,2024-05-29,16:10:00,Sarah Black,Vivo,Y200,901.16,3,Card,David Lee,Uptown,2,None,1,41.89
+996,2024-01-12,17:06:00,Bob White,Vivo,X100 Pro,238.48,3,Card,David Lee,Suburban,1,Charger,3,197.78
+997,2024-05-24,14:18:00,Alice Green,Samsung,Galaxy Z Fold 5,427.26,1,Online,Bob Johnson,Uptown,1,Charger,2,156.14
+998,2024-03-25,15:05:00,Sarah Black,Apple,iPhone SE 2024,202.03,1,Online,Alice Smith,Suburban,3,Screen Protector,3,138.39
+999,2024-12-26,09:22:00,Sarah Black,Oppo,Find X6 Pro,870.56,3,Card,Alice Smith,Uptown,3,None,5,164.05
+1000,2024-04-26,19:06:00,Sarah Black,OnePlus,OnePlus Ace,1429.67,2,Card,Emma Brown,Downtown,2,Screen Protector,4,24.3
